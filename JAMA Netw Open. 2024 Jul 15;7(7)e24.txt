@@ -1,0 +1,48 @@
+JAMA Netw Open. 2024 Jul 15;7(7):e2422259. doi: 10.1001/jamanetworkopen.2024.22259
+Use of Massage Therapy for Pain, 2018-2023
+A Systematic Review
+
+Selene Mak 1,✉, Jennifer Allen 1, Meron Begashaw 1, Isomi Miake-Lye 1,2, Jessica Beroes-Severin 1, Gerardo De Vries 1, Emily Lawson 3, Paul G Shekelle 1
+Author information
+Article notes
+Copyright and License information
+PMCID: PMC11250267  PMID: 39008297
+This systematic review maps the certainty and quality of evidence reported by systematic reviews in 2018 to 2023 of massage therapy for pain in adults.
+
+Key Points
+Question
+What is the certainty or quality of evidence in recent systematic reviews for use of massage therapy for painful adult health conditions?
+
+Findings
+This systematic review identified 129 systematic reviews in a search of the literature published since 2018; of these, 41 assessed the certainty or quality of evidence of their conclusions. Overall, 17 systematic reviews regarding 13 health conditions were mapped, and most reviews concluded that the certainty of evidence was low or very low.
+
+Meaning
+This study found that despite massage therapy having been the subject of hundreds of randomized clinical trials and dozens of systematic reviews about adult health conditions since 2018, there were few conclusions that had greater than low certainty of evidence.
+
+Abstract
+Importance
+Massage therapy is a popular treatment that has been advocated for dozens of painful adult health conditions and has a large evidence base.
+
+Objective
+To map systematic reviews, conclusions, and certainty or quality of evidence for outcomes of massage therapy for painful adult health conditions.
+
+Evidence Review
+In this systematic review, a computerized search was conducted of PubMed, the Allied and Complementary Medicine Database, the Cumulated Index to Nursing and Allied Health Literature, the Cochrane Database of Systematic Reviews, and Web of Science from 2018 to 2023. Included studies were systematic reviews of massage therapy for pain in adult health conditions that formally rated the certainty, quality, or strength of evidence for conclusions. Studies of sports massage therapy, osteopathy, dry cupping or dry needling, and internal massage therapy (eg, for pelvic floor pain) were ineligible, as were self-administered massage therapy techniques, such as foam rolling. Reviews were categorized as those with at least 1 conclusion rated as high-certainty evidence, at least 1 conclusion rated as moderate-certainty evidence, and all conclusions rated as low- or very low–certainty evidence; a full list of conclusions and certainty of evidence was collected.
+
+Findings
+A total of 129 systematic reviews of massage therapy for painful adult health conditions were found; of these, 41 reviews used a formal method to rate certainty or quality of evidence of their conclusions and 17 reviews were mapped, covering 13 health conditions. Across these reviews, no conclusions were rated as high certainty of evidence. There were 7 conclusions that were rated as moderate-certainty evidence; all remaining conclusions were rated as low- or very low–certainty evidence. All conclusions rated as moderate certainty were that massage therapy had a beneficial associations with pain.
+
+Conclusions and Relevance
+This study found that despite a large number of randomized clinical trials, systematic reviews of massage therapy for painful adult health conditions rated a minority of conclusions as moderate-certainty evidence and that conclusions with moderate- or high-certainty evidence that massage therapy was superior to other active therapies were rare.
+
+Discussion
+There is a large literature of original randomized clinical trials and systematic reviews of randomized clinical trials of massage therapy as a treatment for pain. Our systematic review found that despite this literature, there were only a few conditions for which authors of systematic reviews concluded that there was at least moderate-certainty evidence regarding health outcomes associated with massage therapy and pain. Most reviews reported low- or very low–certainty evidence. Although adverse events associated with massage therapy for pain were rare, the evidence was limited. For reviews that had conclusions about adverse events, authors were uncertain if there was a difference between groups or did not find a difference between groups and rated the evidence low to very low certainty of evidence.
+
+Massage therapy is a broad term that is inclusive of many styles and techniques. We applied exclusion criteria determined a priori to help identify publications for inclusion in the evidence map. Despite that procedure, there was still a lack of clarity in determining what massage therapy is. For instance, acupressure was sometimes considered acupuncture and other times considered massage therapy, depending on author definition. In this case, we reviewed and included only publications that were explicitly labeled acupressure and did not review publications about acupuncture only. This highlights a fundamental issue with examining the evidence base of massage therapy for pain when there is ambiguity in defining what is considered massage therapy.
+
+Unlike a pharmaceutical placebo, sham massage therapy may not be truly inactive. It is conceivable that even the light touch or touch with no clear criterion26 used in sham massage therapy may be associated with some positive outcomes, meaning that patients who receive the massage therapy intervention and those who receive a sham massage therapy could both demonstrate some degree of symptom improvement. Limitations of sham comparators raise the question of whether sham or placebo treatment is an appropriate comparison group in massage therapy trials. It may be more informative to compare massage therapy with other treatments that are accessible and whose benefits are known so that any added beneficial outcomes associated with massage therapy could be better isolated and understood.
+
+Compared with the 2018 map, our map included 4 new conditions not on the 2018 map, while 8 conditions from the 2018 map had no new reviews meeting eligibility criteria and 7 health conditions appeared in both maps. Despite identifying new conditions and conclusions with higher certainty of evidence in several reviews in our updated search, most included reviews reported low or very low certainty of evidence, suggesting that the most critical research need is for better evidence to increase certainty of evidence for massage therapy for pain. This is a challenge given that massage, like other complementary and integrative health interventions, does not have the historical research infrastructure that most health professions have.27 Nevertheless, it is only when systematic reviews and meta-analyses are conducted with high-quality primary studies that the association or lack of association of massage therapy with pain will reach higher certainties of evidence. Studies comparing massage therapy with placebo or sham are probably not the priority; rather, the priority should be studies comparing massage therapy with other recommended, accepted, and active therapies for pain. Studies comparing massage therapy with other recommended therapies should also have a sufficiently long follow-up to allow any nonspecific outcomes (eg, those associated with receiving some new treatment) to dissipate. For example, this period has been proposed to be at least 6 months for studies of chronic pain.
+
+Limitations
+There are 2 main limitations to this systematic review’s evidence map. The first, common to all systematic reviews, is that we may not have identified all potentially eligible evidence. If a systematic review was published in a journal not indexed in any of 5 databases we searched and we did not identify it as part of our search of references of included publications, then we would have missed it. Nevertheless, our search strategy identified more than 200 publications about massage therapy for pain published since July 2018, so we did not lack potential reviews to evaluate. The second limitation of evidence maps is that we did not independently evaluate the source evidence; in other words, we took conclusions of authors of the systematic review at face value. That is the nature of an evidence map. Particular to this application of the mapping process, we mapped the review we deemed most informative for the 2 health conditions that had more than 1 eligible review (back pain and labor pain). This necessarily requires judgment, and others could disagree with that judgment. We included the citation for reviews excluded from the map for this overlap reason in supplemental material, and interested readers can review it for additional information. As in all evidence-based products and particularly in 1 such as this covering a large and complex evidence base, it is possible that there are errors of data extraction and compilation. We used dual review to minimize the chance of such errors, but if we are notified of errors, we will correct them.

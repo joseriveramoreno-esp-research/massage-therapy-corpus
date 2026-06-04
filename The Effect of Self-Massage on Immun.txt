@@ -1,0 +1,233 @@
+The Effect of Self-Massage on Immune Function, Stress, and Quality of Life in Young Adults: A Pilot Randomized Control Trial
+Novita Intan Arovah, PhD,1* Gilang Fachri Maulana, M.Or2
+
+1Faculty of Medicine, Universitas Negeri Yogyakarta, Yogyakarta, Indonesia,
+2Faculty of Sports and Health Science, Universitas Negeri Yogyakarta, Yogyakarta, Indonesia
+Introduction
+Addressing immune challenges and stress in young adults is crucial due to the impact of academic and early career pressures. Self-massage, a cost-effective technique, may provide health benefits.
+
+Objective
+This study aimed to investigate the effects of self-massage on immune function, stress, and quality of life in young adults. Secondary objectives included evaluating the feasibility, adherence, and safety of the intervention.
+
+Methods
+A total of 38 healthy young adults (58% women, aged 18–26 years) were randomly assigned to a self-massage group (n = 18) or a control group (n = 20) for an 8-week intervention. Outcome measures included immune status, perceived immune function, perceived health, stress levels, and quality of life, which were analyzed using mixed-effects repeated measures analysis of covariance (ANCOVA) with the pretest as a covariate.
+
+Results
+The self-massage group adhered to the protocol without adverse events. The self-massage group demonstrated significant improvements in immune status compared to the control group (p = 0.044) and a significant within-group change (p = 0.028). While significant time effects were observed for all outcomes, within-group improvements were noted only for perceived immune status (p = 0.032) and perceived general health (p = 0.022) in the self-massage group.
+
+Conclusion
+Self-massage enhances immune function and perceived general health in young adults, offering an effective approach. Future research should incorporate objective measures of the immune system, examine its long-term effects, and investigate its integration with other relaxation techniques to validate and expand these findings.
+
+KEYWORDS: Immunity; massage; stress; young adult; quality of life
+
+INTRODUCTION
+Maintaining a robust immune system is crucial for protecting against infections, particularly in young adults often exposed to stressors such as academic pressure, career challenges, and lifestyle changes.(1–3) Stress negatively affects immune function, making individuals more susceptible to infections and impairing their overall quality of life.(4,5) Young adults, typically defined as those aged 18–26 years,(3) experience increased stress levels, which can compromise their immunity and well-being.(5,6) The interplay between stress and immune function is complex, involving various physiological pathways that can lead to weakened immune responses and increased vulnerability to illnesses, further affecting quality of life. Stress activates the hypothalamic–pituitary–adrenal axis and the sympathetic nervous system, leading to the release of cortisol and other stress hormones that can suppress immune function.(7) Chronic stress can impair the body’s ability to mount effective immune responses, making stress management a critical component of health promotion in young adults. Therefore, it is essential to support young adults in developing strategies to enhance their immune function, manage stress effectively, and improve their overall quality of life.
+
+Historically, massage has been utilized in various cultures for its therapeutic benefits, and contemporary research supports its effectiveness in promoting relaxation and enhancing physiological and psychological well-being.(8) Massage therapy combines hands-on techniques and non-hands-on elements, such as health promotion and education, with its outcomes influenced by therapeutic relationships, communication, the therapist’s expertise, and the treatment environment.(9) Massage has been widely used across cultures for its therapeutic benefits. Contemporary research supports its effectiveness in reducing stress, alleviating pain, and enhancing immune function.(10,11) Studies also suggest that massage can stimulate blood circulation, promoting the efficient delivery of nutrients and oxygen to cells, which is crucial for maintaining a strong immune response.(12) Additionally, massage therapy has also shown positive effects on the immune system by increasing lymphocyte count and enhancing natural killer cell activity, which are crucial components of the body’s defense mechanism against pathogens.(13) Furthermore, the beneficial effects of massage therapy are likely attributed to the stimulation of pressure receptors, which enhance vagal activity and reduce cortisol levels.(10)
+
+Although massage therapy is well known for its therapeutic benefits across diverse populations, including infants,(14) children,(2) adolescents,(1,4) and elderly individuals,(5) physiological and psychosocial characteristics vary significantly across life stages. As immune function and stress responses evolve from infancy through adulthood,(5–7) there is a pressing need for focused research to evaluate how massage therapy influences immune health and stress management in young adults.
+
+While professional massage therapy offers significant benefits, it often requires substantial resources, including the availability of trained practitioners, access to dedicated facilities, and scheduling flexibility. Additionally, the financial cost of professional massage sessions can vary widely depending on location, practitioner expertise, and session duration, making it less accessible for some individuals. These barriers underscore the need for more practical and cost-effective alternatives, such as self-massage, which eliminate these resource and cost constraints. Studies suggest that self-massage techniques, whether performed with(15–17) or without tools,(18,19) promote relaxation,(15) alleviate pain,(16,18) and enhance physical function.(19) Kanpumasatsu, a straightforward method involving body rubbing with a dry towel, is a self-administered practice that encourages relaxation and may support immune health, although the underlying mechanisms are not yet fully understood.(15) Similarly, self-massage of the knee with ginger oil has been found to reduce pain and improve daily functioning in individuals with knee osteoarthritis. This technique is easy to learn and can be practiced at home as a complementary treatment.(18) Combining self-massage with stretching has been shown to enhance flexibility more effectively than stretching alone, particularly in middle-aged adults with limited flexibility, using self-applied techniques.(19) Traditional Thai self-massage, using a Wilai massage stick, has demonstrated effectiveness comparable to ibuprofen in relieving pain and improving muscle condition in individuals with upper back trigger points, providing an accessible self-care option.(16) Advanced technologies, such as self-propelled massage devices, offer additional options for massage therapy but may be less accessible due to their technological complexity and potential costs.(17) For many, manual self-massage remains a practical, affordable, and effective choice for managing pain and promoting relaxation.
+
+Given the public health significance of stress management and immune support, particularly among young adults, it is essential to investigate accessible interventions, such as self-massage, to address these needs. This study explores the effects of self-massage on stress, immune function, and quality of life in young adults. The hypothesis is that self-massage enhances immune function by modulating immune responses and mitigating the suppressive effects of cortisol and other stress hormones, thereby reducing stress. Improved immune function and stress levels are further hypothesized to contribute to better physical and psychological health, ultimately enhancing overall quality of life. Unlike prior studies that focus on objective biomarkers, this research utilizes validated subjective tools to assess perceived health and well-being. This study, thus, aims to evaluate the effect of self-massage on immune function, perceived health, stress levels, and quality of life in young adults. Additionally, the study aims to assess the feasibility, adherence, completion, and safety of the self-massage intervention. The findings of this study are expected to serve as a basis for future large-scale studies and guide health-care professionals in recommending self-care practices for stress management and immune support in young adults.
+
+METHODS
+Study Design, Participants, Sample Size Calculation, and Ethical Considerations
+This study was a randomized controlled trial designed to investigate the effect of self-massage on immune function, stress, and quality of life among healthy young adults aged 18–26 years. Exclusion criteria included pregnancy and the presence of chronic diseases (e.g., autoimmune disorders, cancer). Participants were recruited through brochures posted on social media and via the authors’ networks.
+
+The sample size was calculated based on an estimated effect size of 1, a significance level of 0.05, a power level of 80%, and a two-tailed hypothesis. This calculation resulted in a minimum sample size of 17 participants per group. Anticipating a 15% dropout rate, 20 participants were recruited per group. They were then randomly assigned to the self-massage group (20 participants) or the control group (20 participants).
+
+All participants received informed consent. This study received approval from the Medical and Health Research Ethics Committee of Universitas Gadjah Mada & Dr. Sardjito General Hospital under reference number KE/FK/0378/EC/2021. The study is registered with Open Science Framework (https://osf.io/h42je/).
+
+Allocation, Blinding, and Participants Flowchart
+At the commencement of the study, participants were randomly assigned to either the self-massage or control group, with a 1:1 allocation ratio used. Randomization was conducted using a mobile app with a random number generator designed for Android devices. The authors generated the allocation sequence, assigned participants to groups, and delivered the program; thus, they were not blinded to group allocation. However, research assistants and statisticians remained blinded, utilizing neutral identifiers and de-identified data during statistical analyses. Figure 1 illustrates the flow of participant recruitment.
+
+
+
+
+Figure 1 Flow of participants’ recruitment.
+
+Self-Massage Protocol
+The self-massage was conducted over an 8-week period. Participants in the treatment group were initially trained in the self-massage techniques by the researchers and provided an illustrated guide containing detailed instructions. They attended two training sessions to ensure proper technique. They were then instructed to practice self-massage twice daily, in the morning and evening, with each training session lasting approximately 30 min. After being trained and provided with the illustrated guide, participants were asked to conduct the self-massage techniques twice daily for 15 min. All maneuvers were conducted for 5 s and then rested for 3 s, three times. Each maneuver was conducted for 5 s, followed by a 3-s rest, and repeated three times. This protocol was developed in collaboration with experienced massage therapists and was piloted for feasibility and adherence. Targeted points, based on acupressure theory, were selected for their potential benefits in immune support and stress relief, ensuring the protocol strikes a balance between practicality and theoretical effectiveness. Figure 2 illustrates the self-massage protocol.
+
+
+
+
+Figure 2 The self-massage procedure.
+
+The control group, on the other hand, did not receive any intervention but was encouraged to maintain their usual routines.
+
+Outcome Measures, Instruments, and Data Collection Schedule
+The primary outcomes were collected at baseline (pretest) and after the 8-week intervention period (posttest). The primary outcome measures were immune status, perceived immune function, perceived health, stress levels, and quality of life.
+
+Immune status
+Immune status was assessed using the Immune Status Questionnaire (ISQ).(20) The ISQ is a concise self-report instrument designed to evaluate immune fitness through seven items: common cold, diarrhea, sudden high fever, headache, muscle and joint pain, skin problems, and coughing. Each item is scored on a 5-point Likert scale, ranging from 0 (never) to 4 (almost always), resulting in a total score of 0–28. This total score is then converted to a 0–10 scale based on the developer’s criteria. Additionally, the ISQ asks participants to rate their perceived general health and perceived immune functioning on a 10-point Likert scale. In Indonesia, the ISQ demonstrated strong internal consistency with Cronbach’s alpha values of 0.87 and 0.82 across two surveys and high test–retest reliability with intraclass correlation coefficients ranging from 0.70 to 0.88.(21) A confirmatory factor analysis revealed that the original structure required modification to achieve a better fit (root mean square error of approximation (RMSEA) = 0.069).(21) The ISQ also showed strong convergent validity with significant correlations between individual items and total scores (ranging from 0.63 to 0.82), as well as with perceived general health (−0.65) and perceived immune functioning (−0.51).(21)
+
+Stress
+Stress levels were assessed using the Perceived Stress Scale (PSS), which evaluates participants’ perception of stress over the past month through 10 items.(22) Each item is rated on a 5-point Likert scale ranging from 0 (never) to 4 (very often), resulting in a total score ranging from 0 to 40. The Indonesian version of the PSS was validated among midwives in primary health care, demonstrating sufficient reliability (Cronbach’s alpha = 0.78).(23) In this context, the mean perceived stress score was 16.5 (standard deviation = 5.08), indicating moderate levels of stress.(23) The PSS also showed good internal consistency (Cronbach’s alpha > 0.7) and strong test–retest reliability (Pearson correlation coefficient = 0.69), confirming that it is a reliable tool for measuring perceived stress in Indonesia.(23)
+
+Quality of life
+Quality of life was assessed using the Short Form 12 (SF-12) Health Survey, a concise version of the SF-36 designed to measure health-related quality of life across eight health domains: physical functioning, role physical, bodily pain, general health, vitality, social functioning, role emotional, and mental health.(24) These domains are grouped into two summary scores: the physical component summary (PCS-12) and the mental component summary (MCS-12).(24) In Indonesia, the SF-12 was translated and culturally adapted for use in middle-aged and older adults, demonstrating strong reliability (PCS-12 = 0.72, MCS-12 = 0.73) and high test–retest reliability (PCS-12 ICC = 0.88, MCS-12 ICC = 0.75).(25) A confirmatory factor analysis revealed a good fit (RMSEA = 0.04), supporting the validity of the model.(25)
+
+Secondary outcome measures
+Adherence was measured based on the number of weekly self-massage sessions completed by each participant in the treatment group, with a minimum adherence threshold set at 75% of the total sessions. Participants reported their session completion via weekly phone check-ins conducted by the researchers. Safety was evaluated by monitoring any adverse events reported throughout the intervention period and was confirmed during the weekly phone check-ins.
+
+Statistical Analysis
+Descriptive statistics summarized participants’ baseline characteristics. A mixed-effects repeated measures analysis of covariance (ANCOVA) was conducted to examine the time effect (pretest and posttest), treatment effect (treatment and control), and the interaction effect between time and treatment on all outcome measures, with the pretest data included as a covariate. The use of the pretest as a covariate adjusts for baseline differences, resulting in the treatment effect being calculated as the change from the pretest to the posttest, which aligns closely with the time–treatment interaction effect. Simple effects analysis was performed to compare data between groups at each time point and to assess changes from pretest to posttest within each group. Statistical significance was set at a p-value of <0.05, and all analyses were conducted using IBM SPSS Statistics for Macintosh, Version 29.0 (IBM Corp, Armonk, NY, USA).
+
+RESULTS
+Adherence, Safety Issues, and Participants’ Characteristics
+All participants in the treatment group met the adherence requirements, with no significant adverse events recorded, indicating the safety of the self-massage intervention. Table 1 summarizes the characteristics of participants in this study, showing no significant differences in sociodemographic or anthropometric measurements between the treatment and control groups. Out of 38 participants, 22 (58%) were women. There was no significant difference in gender distribution between the treatment groups (p = 0.78).
+
+Table 1 Participants’ Characteristics (n = 38)
+
+
+Randomized control trials
+Table 2 and Figure 3 summarize the main interaction and simple main effect of self-massage versus a control intervention on the outcome measures, as determined by a mixed-effects repeated measures ANCOVA with pretest values as covariates, revealing several significant findings. Figure 3 illustrates the estimated marginal means of the outcome measures with the pretest as the covariate. Table 2 further summarizes time, the treatment effects, and simple main effects.
+
+Table 2 Main, Interaction, and Simple Main Effects with Pretest as a Covariate (n = 38)
+
+
+
+
+
+Figure 3 Estimated marginal means with pretest as covariates.
+
+Table 2 and Figure 3 summarize the main and simple main effects of self-massage versus control on various outcomes, highlighting significant findings. For immune status, the self-massage group showed significant improvements compared to the control group, with a treatment effect (p = 0.044) and a significant within-group improvement (p = 0.028); in contrast, the control group showed no significant change. For perceived immune status, significant time effects were observed across both groups (p < 0.001), with the self-massage group demonstrating a significant within-group improvement (p = 0.032), while the control group showed no significant change. For perceived general health, significant time effects were noted (p < 0.001), with the self-massage group showing a significant within-group improvement (p = 0.022), whereas the control group showed no significant change. For perceived stress, significant time effects were observed (p = 0.006), indicating a general improvement across participants; however, neither group demonstrated significant within-group changes. Similarly, significant time effects were observed for the PCS and MCS (p < 0.001 for both), but no significant within-group changes were detected in either the self-massage or control group. These results suggest that improvements in immune-related outcomes were specific to the intervention. In contrast, other outcomes, such as perceived stress, PCS, and MCS, reflected broader time-related effects rather than treatment-specific changes.
+
+DISCUSSION
+This research contributes to the growing body of literature on self-administered massage by examining its specific impact on stress, immune function, and quality of life in young adults. While prior studies have explored self-massage for stress relief, this study uniquely integrates perceived immune function and quality of life as outcomes, addressing gaps in the existing literature and offering insights into its potential as an accessible and sustainable intervention. The study found that an 8-week self-massage intervention significantly improved immune status, perceived immune status, and perceived general health in the self-massage group. However, the intervention did not result in significant changes in perceived stress levels or quality of life. Notably, high adherence rates and the absence of adverse events underscore the feasibility and safety of self-massage as a self-care practice.
+
+This study found that self-massage significantly improved immune status among young adults, as measured by the ISQ and perceived immune functioning. These findings align with previous research indicating that massage therapy can enhance immune function. For instance, a non-randomized controlled study on spinal thermal massage found significant enhancements in natural killer (NK) cell activity, suggesting a potential for boosting immune surveillance against viral diseases and cancer.(13) Similarly, a systematic review of massage therapy in individuals with HIV/AIDS reported improvements in immune function, including enhanced CD4+ and NK cell counts.(26) Another study also highlighted the immune-boosting effects of massage in children with HIV, showing a significant increase in CD4+ CD25+ cells and NK cells.(27) While these studies corroborate the positive impact of massage on immune function, the current study’s focus on young adults makes a unique contribution to the literature. Future research should investigate the long-term effects of self-massage on immune function and assess its efficacy across various age groups and health conditions.
+
+Stress levels decreased in both groups during the intervention; however, neither group showed significant pre-to-posttest changes. This suggests that self-massage offers general relaxation but lacks the unique stress-reducing effects typically associated with professional massage. Research has shown that tactile and interpersonal elements, such as empathetic touch and the release of oxytocin, significantly enhance stress relief in professional massage settings.(28,29) By incorporating both tactile and social dimensions, professional massage achieves notable reductions in stress markers.(30,31) The absence of these interpersonal factors in self-massage likely limits its efficacy. Future research could explore whether self-massage in group settings or combined with mindfulness might replicate the benefits of professional massage.
+
+The study found minimal impact on the PCS and a slight upward trend in the MCS, suggesting limited benefits for physical health but potential for maintaining mental well-being. In contrast, several studies have shown significant improvements in PCS due to professional massage, with more varied outcomes in MCS.(32–34) A study on hemodialysis patients with restless leg syndrome using aromatherapy massage reported broad benefits in physical and mental symptoms, driven by reduced symptom severity and increased relaxation.(32) Another study examined primary care patients with chronic low back pain receiving professional massage, finding sustained PCS gains from pain relief but modest, declining MCS improvements.(33) A study in women with chronic pelvic pain showed that treatment with transverse friction massage reduced pain and improved PCS but did not affect depression scores.(34) The stronger outcomes in professional massage reflect the benefits of tactile precision and interpersonal interaction, which self-massage lacks. To enhance its effectiveness, self-massage can be combined with complementary practices such as mindfulness or professional guidance. Future research should explore hybrid approaches to improve both physical and mental quality of life.
+
+The overall finding of the study suggests that self-massage is a feasible and safe practice that can enhance immune function and perceived general health in young adults. These findings are particularly relevant for individuals seeking cost-effective and accessible methods to support their immune system and overall well-being. Health-care professionals might recommend self-massage as part of a broader stress management and immune support strategy. A major strength of this study is its focus on a practical and scalable intervention that individuals can easily integrate into their daily routines. The randomized controlled trial design and high adherence rates strengthen the validity of the findings. However, several limitations are acknowledged, including a small sample size, a short intervention period, and reliance on self-reported measures. Future research should address these limitations by using larger samples, longer interventions, and objective biomarkers, such as cortisol levels and cytokines, to validate findings and explore long-term effects. The reliance on self-reported immune function measures may not fully capture physiological changes, underscoring the need for complementary objective markers to provide a more comprehensive understanding of the effects of self-massage. While the protocol was guided by the acupressure theory and piloted for feasibility, it lacked empirical validation for the timing and repetition of maneuvers, suggesting that future studies should investigate factors such as timing, intensity, and targeted points to optimize benefits. Additionally, the focus on healthy young adults limits generalizability to populations with chronic stress, immune deficiencies, or other health conditions; expanding to these groups could determine whether self-massage offers different or more pronounced benefits. Self-massage could be implemented as a low-cost, accessible intervention in workplace wellness programs, educational settings, or clinical care to support stress management and recovery, with digital tools such as apps or instructional guides enhancing its reach and effectiveness.
+
+CONCLUSION
+The findings suggest that self-massage is a feasible and cost-effective intervention for supporting immune function and reducing stress; however, further research is needed to confirm these benefits and explore the underlying mechanisms. Overall, this study provides valuable evidence supporting self-massage as a practical tool for enhancing immune function and perceived health, with implications for broader health promotion and disease prevention strategies. Future research should incorporate objective measures of the immune system, investigate the long-term effects of self-massage, and explore its integration with other relaxation techniques. These steps will help further validate and expand on these findings, providing deeper insights into their broader health implications.
+
+ACKNOWLEDGMENTS
+This study received financial support from Penelitian Unggulan Perguruan Tinggi (PUPT) Universitas Negeri Yogyakarta.
+
+CONFLICT OF INTEREST NOTIFICATION
+The authors declare there are no conflicts of interest.
+
+FUNDING
+No sources of funding were used in this study.
+
+AUTHOR CONTRIBUTIONS
+NIA and GFM conceived and planned the study. GFM conducted data collection, while data analysis was performed collaboratively by NIA and GFM. NIA drafted the manuscript. Both authors reviewed and revised successive versions. Finally, NIA and GFM approved the final version of the manuscript for submission.
+
+REFERENCES
+1. Pascual M, Montesinos J, Guerri C. Role of the innate immune system in the neuropathological consequences induced by adolescent binge drinking. J Neurosci Res. 2018;96(5):765–780. https://doi.org/10.1002/jnr.24203
+Crossref
+
+2. Scott SR, Manczak EM. Peripheral immune correlates of childhood and adolescent peer relationships: a systematic review. Dev Psychobiol. 2021;63(5):985–996. https://doi.org/10.1002/dev.22119
+Crossref  PubMed
+
+3. Stroud C, Walker LR, Davis M, Irwin CE Jr. Investing in the health and well-being of young adults. J Adolesc Health. 2015;56(2):127–129. https://doi.org/10.1016/j.jadohealth.2014.11.012
+Crossref  PubMed
+
+4. Brenhouse HC, Schwarz JM. Immunoadolescence: neuroimmune development and adolescent behavior. Neurosci Biobehav Rev. 2016;70:288–299. https://doi.org/10.1016/j.neubiorev.2016.05.035
+Crossref  PubMed  PMC
+
+5. Macht VA, Reagan LP. Chronic stress from adolescence to aging in the prefrontal cortex: a neuroimmune perspective. Front Neuroendocrinol. 2018;49:31–42. https://doi.org/10.1016/j.yfrne.2017.12.001
+Crossref
+
+6. Ménard C, Pfau ML, Hodes GE, Russo SJ. Immune and neuroendocrine mechanisms of stress vulnerability and resilience. Neuropsychopharmacology. 2017;42(1):62–80. https://doi.org/10.1038/npp.2016.90
+Crossref
+
+7. Pondeljak N, Lugović-Mihić L. Stress-induced interaction of skin immune cells, hormones, and neurotransmitters. Clin Ther. 2020;42(5):757–770. https://doi.org/10.1016/j.clinthera.2020.03.008
+Crossref  PubMed
+
+8. Tarsha MS, Park S, Tortora S. Body-centered interventions for psychopathological conditions: a review. Front Psychol. 2019;10:2907. https://doi.org/10.3389/fpsyg.2019.02907
+Crossref
+
+9. Kennedy AB, Cambron JA, Sharpe PA, Travillian RS, Saunders RP. Clarifying definitions for the massage therapy profession: the results of the Best Practices Symposium. Int J Ther Massage Bodywork. 2016;9(3):15. https://doi.org/10.3822/ijtmb.v9i3.312
+PubMed  PMC
+
+10. Field T. Massage therapy research review. Complement Ther Clin Pract. 2016;24:19–31. https://doi.org/10.1016/j.ctcp.2016.04.005
+Crossref  PubMed  PMC
+
+11. Gasibat Q, Suwehli W. Determining the benefits of massage mechanisms: a review of literature. J Rehabil Sci. 2017;3(2):58–67. https://doi.org/10.11648/j.rs.20170203.12
+
+12. Paul A, Usman J, Ahmad MY, Hamidreza M, Maryam H, Ong ZC, et al. Health efficacy of electrically operated automated massage on muscle properties, peripheral circulation, and physio-psychological variables: a narrative review. EURASIP J Adv Signal Process. 2021;2021:1–22. https://doi.org/10.1186/s13634-021-00788-6
+Crossref
+
+13. Kim K-E, Shin N-R, Park S-H, Nam S-Y, Yoon Y-S, Park S-K, et al. Modulation of the human immune status by spinal thermal massage: a non-randomized controlled study. Signa Vitae. 2022;18(2):137–146. https://doi.org/10.22514/sv.2021.144
+
+14. Jabraeili M, Mirghafourvand M, Montazeri M, Rahkar Farshi M. The effect of massage on cortisol level in infants: a systematic review and meta-analysis. J Neonatal Nurs. 2023;29(5):720–727. https://doi.org/10.1016/j.jnn.2023.02.010
+Crossref
+
+15. Komagata S. Kanpumasatsu: a superficial self-massage with a dry towel to enhance relaxation and immune functions. J Interprof Educ Pract. 2023;31:100609. https://doi.org/10.1016/j.xjep.2023.100609
+PubMed  PMC
+
+16. Wamontree P, Kanchanakhan N, Eungpinichpong W, Jeensawek A. Effects of traditional Thai self-massage using a Wilai massage stick(TM) versus ibuprofen in patients with upper back pain associated with myofascial trigger points: a randomized controlled trial. J Phys Ther Sci. 2015;27(11):3493–3497. https://doi.org/10.1589/jpts.27.3493
+Crossref  PubMed  PMC
+
+17. Sayapin SN. Intelligence self-propelled planar parallel robot for sliding cupping-glass massage for back and chest. In: Hu Z, Petoukhov S, He M, eds. Advances in Artificial Systems for Medicine and Education. Springer; 2018:166–175. https://doi.org/10.1007/978-3-319-67349-3_15
+Crossref
+
+18. Tosun B, Unal N, Yigit D, Can N, Aslan O, Tunay S. Effects of self-knee massage with ginger oil in patients with osteoarthritis: an experimental study. Res Theory Nurs Pract. 2017;31(4):379–392. https://doi.org/10.1891/1541-6577.31.4.379
+Crossref  PubMed
+
+19. Capobianco RA, Mazzo MM, Enoka RM. Self-massage prior to stretching improves flexibility in young and middle-aged adults. J Sports Sci. 2019;37(13):1543–1550. https://doi.org/10.1080/02640414.2019.1576253
+Crossref  PubMed
+
+20. Wilod Versprille LJF, van de Loo AJAE, Mackus M, Arnoldy L, Sulzer TAL, Vermeulen SA, et al. Development and validation of the immune status questionnaire (ISQ). Int J Environ Res Public Health. 2019;16(23):4743. https://doi.org/10.3390/ijerph16234743
+Crossref
+
+21. Maulana GF, Arovah NI. The psychometric evaluation of the immune status questionnaire in Indonesia during Covid-19 pandemic. Eastern J Med. 2022;27(3):380–388. https://doi.org/10.5505/ejm.2022.93764
+Crossref
+
+22. Reis RS, Hino AA, Añez CR. Perceived stress scale: reliability and validity study in Brazil. J Health Psychol. 2010;15(1):107–114. https://doi.org/10.1177/1359105309346343
+Crossref  PubMed
+
+23. Purnami CT, Suwondo A, Sawitri DR, Sumarni S, Hadisaputro S, Lazuardi L. Psychometric measurement of perceived stress among midwives at primary health care province of central java indonesia. Indian J Public Health Res Dev. 2019;10(3):805. https://doi.org/10.5958/0976-5506.2019.00600.4
+Crossref
+
+24. Ware J Jr, Kosinski M, Keller SD. A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity. Med Care. 1996;34(3):220–233. https://doi.org/10.1097/00005650-199603000-00003
+Crossref  PubMed
+
+25. Arovah NI, Heesch KC. Assessment of the validity and reliability of the Indonesian version of Short Form 12 (SF-12). J Prev Med Hyg. 2021;62(2):E421–E429. https://doi.org/10.15167/2421-4248/jpmh2021.62.2.1878
+PubMed  PMC
+
+26. Hillier SL, Louw Q, Morris L, Uwimana J, Statham S. Massage therapy for people with HIV/AIDS. Cochrane Database Syst Rev. 2010;2010(1): CD007502. https://doi.org/10.1002/14651858.CD007502.pub2
+PubMed  PMC
+
+27. Shor-Posner G, Hernandez-Reif M, Miguez MJ, Fletcher M, Quintero N, Baez J, et al. Impact of a massage therapy clinical trial on immune status in young Dominican children infected with HIV-1. J Altern Complement Med. 2006;12(6):511–516. https://doi.org/10.1089/acm.2006.12.511
+Crossref  PubMed
+
+28. Morhenn V, Beavin LE, Zak PJ. Massage increases oxytocin and reduces adrenocorticotropin hormone in humans. Altern Ther Health Med. 2012;18(6):11–18. https://doi.org/10.1038/s41598-020-71757-0
+PubMed
+
+29. Meier M, Unternaehrer E, Dimitroff SJ, Benz AB, Bentele UU, Schorpp SM, et al. Standardized massage interventions as protocols for the induction of psychophysiological relaxation in the laboratory: a block randomized, controlled trial. Sci Rep. 2020;10(1):14774. https://doi.org/10.1038/s41598-020-71173-w
+Crossref  PubMed  PMC
+
+30. Baek JY, Lee E, Gil B, Jung HW, Jang IY. Clinical effects of using a massage chair on stress measures in adults: a pilot randomized controlled trial. Complement Ther Med. 2022;66:102825. https://doi.org/10.1016/j.ctim.2022.102825
+Crossref  PubMed
+
+31. Cho Y, Joo JM, Kim S, Sok S. Effects of Meridian acupressure on stress, fatigue, anxiety, and self-efficacy of shiftwork nurses in South Korea. Int J Environ Res Public Health. 2021;18(8):4199. https://doi.org/10.3390/ijerph18084199
+Crossref  PubMed  PMC
+
+32. Elkady TW, Soliman GH, El-Ghafar A, Ibrahim S, Shaala SA. Effect of aromatherapy massage on restless leg syndrome and quality of life among patients undergoing hemodialysis. Menoufia Nurs J. 2024;9(3):97–122. https://doi.org/10.21608/menj.2024.383757
+Crossref
+
+33. Elder WG, Munk N, Love MM, Bruckner GG, Stewart KE, Pearce K. Real-world massage therapy produces meaningful effectiveness signal for primary care patients with chronic low back pain: results of a repeated measures cohort study. Pain Med. 2017;18(7):1394–1405. https://doi.org/10.1093/pm/pnw347
+Crossref  PubMed  PMC
+
+34. Ersin A, Tarhan F, Başol G, Şakul BU, Algun ZC. The effect of transverse friction massage on pain and quality of life in women with chronic pelvic pain: a quasi-experimental study. Int J Ther Rehabil. 2023;30(6):1–8. https://doi.org/10.12968/ijtr.2022.0130
+Crossref
+
+Corresponding author: Novita Intan Arovah, Faculty of Medicine, Universitas Negeri Yogyakarta Jalan Colombo no 1 Karang Malang Yogyakarta, 55281, Indonesia, E-mail: novita@uny.ac.id, Tel: +6285643350492
+
+(Return to Top)
+
+COPYRIGHT
+
+Published under the CreativeCommons Attribution-NonCommercial-NoDerivs 3.0 License.
+
+International Journal of Therapeutic Massage and Bodywork, Volume 19, Number 1, March 2026

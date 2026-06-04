@@ -1,0 +1,297 @@
+Beyond the Barriers: Alternative Payment Schemes may make Massage Therapy more Affordable
+Victoria Morgan, Bachelor of Therapeutic and Sports Massage,1* Jo Smith, PhD,1 Donna Smith, PhD1
+
+1Southern Institute of Technology, Invercargill, New Zealand
+Background
+Massage therapy is an increasingly utilized user-pays service in Aotearoa New Zealand. People seek massage therapy for physical support, relaxation, and well-being. It is likely financially inaccessible to many and is generally not subsidized by the government; however, some private insurance companies in New Zealand provide limited cover for massage therapy sessions.
+
+Purpose
+The aim of this project was to find out massage therapist (MT) and client perceptions of, and benefits and barriers to, using alternative payment schemes (APSs) to pay for massage therapy. These schemes included ‘pay it forward,’ ‘pay what you wish,’ and paying by installments.
+
+Setting
+This project involved participants from Invercargill, Dunedin and Auckland, Aotearoa New Zealand.
+
+Participants
+The participants were 12 employed MTs, and 7 massage therapy clients for whom cost was a barrier.
+
+Research design
+This was a qualitative study using a semi-structured interview approach. Participants were interviewed either in person or over the phone.
+
+Results
+Four themes emerged: financial contexts, APSs as a positive concept; considerations of administration, transparency and possible impacts; and installments as a preferred scheme. Massage is expensive, but many view it as an important investment in health and well-being. Owing to cost, massage is not utilized as often as needed. Perceived benefits to using an APS were increased accessibility and usage of massage therapy, resulting in potentially better health and well-being. Considerations for MTs centered around a lack of time and knowledge for scheme setup, a potential negative effect on the client–therapist relationship, and concern about losing money. For clients, considerations included uncomfortable feelings around accepting financial assistance and potential loss of money: a risk if funds had been prepaid toward a massage, and the therapist goes out of business before the massage was claimed. Overall, the installment scheme was preferred by MTs and massage clients.
+
+Conclusion
+Massage therapy is a valuable health and wellness tool for many people. APSs may have a place in the industry as there may be enough interest from therapists and clients to engage in a system that is user-friendly, trustworthy, and safe, thus increasing the affordability and accessibility of massage therapy.
+
+KEYWORDS: Massage therapy; alternative payment schemes; affordable; qualitative
+
+INTRODUCTION
+Massage therapy incorporates a variety of manual techniques to relieve pain and stress, promote functional independence, and promote relaxation.(1) Massage therapy is one of the most sought-after Complementary and Alternative Medicine (CAM) modalities in Aotearoa New Zealand, with over 9% of the population seeking massage in 2006–2007.(2) Common reasons for receiving massage therapy include physical support and management, relaxation, and well-being(3); however, one of the main factors for people discontinuing seeking massage therapy is cost.(4,5) In Aotearoa New Zealand, massage therapy is not covered by the Accident Compensation Corporation (ACC)—the crown entity that provides insurance for accidental injuries.(6,7) Several other allied health services are covered, such as osteopathy, chiropractic, and acupuncture.(8) ACC pays the provider a flat or hourly rate, thus reducing the total bill for the client.(9)
+
+In the last few decades, certain sectors have seen an increased traction toward alternative payment options such as Pay What You Wish (PWYW) and Pay It Forward (PIF).(10) For this project, the researchers used the term alternative payment schemes (APSs) to describe three models:
+
+Pay It Forward—a person anonymously pays any amount of money to go toward another person’s massage. This money could be displayed at the massage business, and recipient clients may choose an amount to go toward their massage, or the money could be put into a pool until there is enough money for a massage to be used by a person in need.
+
+Pay What You Wish—a person chooses how much they pay for the massage. This could be any amount.
+
+Installments—a client pays the therapist small amounts of money over several weeks, until they have enough to redeem a massage.
+
+Massage therapy is widely available to people who have disposable income. However, even as a growing industry where the physical, psychological, and social benefits of massage therapy are recognized, it is still financially out of reach for many. Therefore, the aims of this research project were to:
+
+explore perceptions and attitudes of massage therapists (MTs) and massage therapy clients regarding APSs.
+
+identify the benefits and barriers to implementing APSs by the MTs, and any barriers for the recipients of such schemes.
+
+METHOD
+A qualitative approach using semi-structured interviews was employed. The research took place in Auckland, Dunedin, and Invercargill, with four researchers collecting data from participants within their own geographical area.
+
+Participants
+Two populations were recruited: MTs who were currently practicing and for whom massage therapy was their main source of income, and massage therapy clients who had received at least one massage in the last 24 months, and for whom cost was a barrier to seeking further massages. All participants were required to be over 18 years old. Separate interview questions were prepared for each population (Appendixes I and II). Participants were interviewed face to face or via the telephone. Specific demographics such as income were not collected. Eight of the MT population were female, three were male. In the client population, four were female and three were male. All participants were living in either Auckland, Dunedin, or Invercargill.
+
+Analysis
+All data were recorded and initially transcribed using the Otter.ai application. The results were transcribed verbatim and analyzed using inductive data analysis.(11) Significant themes arose that established meaning across the data set.
+
+Ethics
+The study was approved by the Southern Institute of Technology Human Research Ethics Committee in 2021.
+
+RESULTS
+The results from 19 participants (12 MTs, 7 clients) showed four main themes that were common across the MT group and the client group. The themes were as follows: financial contexts, APS as a positive concept; considerations of administration, transparency, and possible impacts; and installments as a preferred scheme.
+
+Theme: Financial Contexts
+The first theme was financial contexts: perceptions of worth, how much was spent on and charged for massage, and alternative ways to pay. Expectations about massage therapy prices varied between therapists and clients The amount of money a client would or could pay for an hour-long massage was between $25 and $80 (mean $51), which contrasts with MTs charging prices between $50 and $90 (mean $75).
+
+Both MTs and massage therapy clients viewed massage therapy as beneficial and expensive. Clients viewed it as a luxury; many MTs described it as a necessity. Some clients said that while they thought massage was expensive, they also thought the MT was worth it. For example, “it is expensive, but I think they’re [massage therapists] worth every cent that they get,” Client 4; and “it still seems like it’s a luxury type service,” Client 5. MTs supported this view but went further, noting how important massage is, saying “massage therapy is a luxury for some people, and a necessity for all people,” MT 9; and “It’s not just a luxury … it actually helps your function,” MT 17.
+
+MTs were cognizant of their clients’ financial situation, noting that the cost of massage was a limiting factor for some people. “I have clients I see only once, or very irregularly because they can’t afford it. I also have people comment on the initial price and say it’s too much,” MT 14. An awareness of their client’s financial challenges led to most MTs offering a different pricing structure for certain populations. Many times, there was no official structure offered by the therapist, with one participant stating “…whatever they can afford,” MT 8. Those MTs that had a system in place offered a reduced rate or free massage at regular intervals. Students, pensioners, and regular clients were usually the recipients of a discount. Several therapists also accepted other forms of payment such as bartering, koha, a Māori (Aotearoa New Zealand indigenous peoples) custom, which in the modern day is usually a present or gift, mostly in the form of money,(12) or swaps for services. “I have done some bartering of services, for example lawns mowed for massage,” MT 8; and “… koha can be a smaller cashment along with art or food or exchange of services,” MT 9.
+
+Discounts are one form of ensuring clients can access massage more regularly. APSs are another potential way. Most MTs were aware of these schemes existing in other industries and likened their own current practices to APSs described by the researchers: “What I have noticed … are hairdressers or beauticians have started offering a membership where you pay a certain amount each week and that gets you a certain product or therapy … I sell gift vouchers, and I find a lot of the gift vouchers that are bought are for people who are having a tough time … so that’s kind of paying it forward,” MT 10.
+
+The client population had less awareness overall of APSs. Those few who had knew about PIF and installments. One participant had used installments to pay for clothes, and another knew this scheme was a way to prepare for vet bills. No one had been the recipient of such a scheme, but one person had purchased coffee for a stranger: “I’ve done pay it forward with coffee,” Client 2.
+
+Theme—APS as a Positive Concept
+The second theme, “APS as a positive concept,” featured for both MTs and clients. The benefits were increased use of massage therapy services, affordability, and availability.
+
+Clients would increase their use of massage therapy if they could afford to. When asked if they would seek more massage therapy if money was not an issue, Clients 2, 3, and 4, answered “yes,” “of course,” and “yes I would, definitely,” respectively. MTs echoed this sentiment stating: “I believe if we make ourselves more affordable, we will see an increase in the use of massage,” MT 8. Many clients were more likely to choose an MT that offered APSs—“if there were more payment options, [I would] definitely [book in with them],” Client 3; and “Yes, it would motivate me [to book],” Client 1.
+
+MTs are aware that making massage more affordable means it is more available for clients to access. “[if] there was some way to have it subsidized, so it was more accessible for people financially, that would be good,” MT 14.
+
+APSs were, overall, seen as a positive tool for making massage therapy more available to the wider population by both MTs and clients. One client thought APSs were: “a really good idea for people who have money [to] help out other people,” Client 7. Another states, “It would just make things a lot easier if you have a tight week or you haven’t worked,” Client 2. MTs reiterated these feelings with MT 14 saying, “[APSs would make] it more financially viable for people to budget and plan for regular service” and “Yes I think there is [demand for APS] … there are people who would benefit but can’t afford massage,” MT 18.
+
+Theme—Considerations of Administration, Transparency, and Possible Impacts
+The third theme was considerations. MTs and clients faced potential challenges when thinking of providing or utilizing an APS. Considerations were administration, transparency, and possible impacts on the therapeutic relationship.
+
+Administration—adding another string to the bow
+Administration of an APS includes the setting up and maintenance of a new system. MTs were aware of the time and effort this would take, and as small business owners responsible for all facets of their business, this idea was a challenge: “I would have to have a structure in place … the promotion, the marketing, when you’re already busy it’s hard to fit more stuff in,” MT 13; and “It would require more bookwork, something I hate,” MT 18. Many MTs would still consider an APS if there was help available for the administrative side as illustrated by MT 10: “I would [need help setting up] if it wasn’t off the shelf … I would be looking for maybe a bit of legal advice, to make sure what I’m doing is legitimate, and I might actually go to my accountant and ask them for advice. I would also go on the web and research.”
+
+Transparency—where does the money go?
+Both MTs and clients had apprehensions about how money would be handled within the various schemes. Some clients wanted to be sure that they would not get cheated, as Client 2 stated in relation to an installment scheme: “that therapist has to be guaranteed that they’re going to be there, in five or six months’ time … if you put money into a therapist and then all of a sudden you pick up the phone and the therapist is gone, the money is gone”. However, some MTs were willing for clients to see records: “I would be able to show information that their money coming into my account and going out as it needs to be going out … depends on what the client wants to see, have a discussion around that,” MT 9. Of more concern to the MTs was the assurance that they would get enough money to cover costs and recognize their value. These quotes were made in relation to a PWYW scheme: “…but are you going to get paid enough to cover you?” MT 13; and “I understand the value of what I do way better than my clients. You would find that a lot of people will take advantage of it, and there will be some people who will be generous, but the balance wouldn’t pay off, I wouldn’t think,” MT 18. These sentiments were echoed by clients: “Pay what you wish, probably people would take advantage of that,” Client 5.
+
+In a PIF scheme, MTs may be faced with selecting which clients receive a donated massage.
+
+For some MTs, this was a challenging idea: “I don’t really [want to] come into questions like why did you donate to them and not me?” MT 12. Others felt the MT’s choice would be entirely confidential: “Nobody’s going to know, at the end of the day, you are choosing somebody and you’re just telling that one person,” MT 13. Still another approach would be to celebrate the donors and the process: “On social media, just post everything there and saying thanks for everybody who actually contributed, and then showing who received it (sic),” MT 15. Several MTs mentioned a trusting relationship meaning clients are likely to respect an MTs decision, as illustrated by MT 18: “there is a huge level of trust already in place, from your clients … I think the mid century idea would be to give them feedback to who that money would go to, if you want to give some transparency … you need to really maybe show who the massages are going to and make a connection between them, through social media … as long as both parties are in agreement.”
+
+Possible impacts on the therapeutic relationship
+Some MTs thought that discussing finances with clients could make navigating the therapeutic encounter challenging. “You’d have to read the clients as to whether you could approach the subject … whether they’d be comfortable, whether it would make things awkward,” MT 13. Others felt that once rapport was well established, discussions may occur easily: “if [a conversation] was to happen with any of my clients I feel like that would be built on the rapport that we have and our goals, and what they wanted to achieve,” MT 11.
+
+One MT noted it may be hard for clients to accept they may need financial aid, “… the issue of getting people to accept help. You know you have to admit that you do need help. You have to be willing to accept a gift from somebody,” MT 17. Another MT thought the benefit of a well-established relationship could make the conversation easier: “When you know your clients and they’re regulars … you could actually offer them, [say to them], ‘you know you’re going through a hard time, how about for the next few sessions … we do it at this price?’” MT 13.
+
+Clients may know they need monetary help, but for most participants, there was a sense of self-determination and discomfort in getting free or discounted massages: “I wouldn’t like it…if I can’t afford it, I don’t get it,” Client 2; “I wouldn’t feel comfortable,” Client 4; and “I’d do it, but I kind of feel like I was taking advantage: I got a free massage for doing nothing. I’d probably use it once and then [feel like] I can’t do that again unless I pay it forward,” Client 3. Some clients were happy to receive free or discounted massages: “Yeah, that’d be nice,” Client 7; and “I’d feel appreciative,” Client 1.
+
+One client would not change MTs just because another therapist offered an APS. It was important that professionalism was upheld. “[if] they were not so expensive, but there was the risk of them not being as good …I’d want to know that they were completely professional and did all the right things,” Client 4. Additionally, clients were cognizant that people may take advantage of a therapist who offered an APS. “It’s hard to offer a service that people will find affordable while not undervaluing the masseuse, I know it takes a lot of wear and tear on your hands and arms, so I .… feel like I don’t want to take advantage,” Client 3.
+
+Theme—Installments as a Preferred Scheme
+The final theme was about the preferred APS for clients and MTs. Of the three discussed, an installment scheme was the favorite.
+
+All participants showed a willingness to be part of an APS in some form. The most preferred by both groups was an installment scheme. For the clients, installments would allow the person to save toward the goal of a massage. “Definitely the instalments … you can put money away weekly … but you’re directly saving for that massage. I think it would be a really good thing to implement,” Client 5. When it came time to redeem it, they would not be out of pocket. “I could go and … put 20 dollars on massage therapy… and after a while you know you’ve got say 100 bucks or 150 in there. And then you’ve got a slack [money] week, and you need a massage, and [you] go and get it,” Client 2.
+
+Most MTs chose installments as their preferred scheme. Installments ensured the therapists got paid reliably. “At the end of the day you’re going to get the price that you have said … if somebody wants to put $10 away each week, and then get the massage … you’re still going to get your money,” MT 13; and “I will choose instalments … because I have a family to support, and I would still need to be paid for my services,” MT 9. Installments were also seen to be simple to set up: “Instalments, that’s a smart idea. That would be the easiest one to implement and set it up … you could quite easily have someone paying … $10, $20 or $30, into [an]account, and even keep track of it, reconcile it, and they come in once a month, or fortnight and get the massage, and that would be simple,” MT 18. A small number of MTs saw value in a PIF scheme, acknowledging the community-minded, altruistic element. “Pay it Forward … because I think, not just myself but the community helping as well … why not [provide a] free massage for someone in need? So, it’s not just for myself. And it’s with the community helping. Everybody helping together,” MT 15. No MTs selected PWYW as a preferred scheme, as they were uncertain they would have enough income. “It’s just a big unknown as to what you’d end up getting paid,” MT 17.
+
+DISCUSSION
+Both populations valued massage therapy as an important tool for health and well-being, a sentiment documented in previous research.(13,14) However, the cost of massage therapy meant that it was prohibitive for the client participants in this study to access it more often. There is a discrepancy between the amount a client would be willing to pay for a massage and the mean amount that MTs charge for an hour-long massage. Being unable to afford massages meant clients did not access this service as often as they wanted or needed to.
+
+One aim of the research was to explore MTs’ perceptions of APSs. PIF and installments were the most recognized. Some mentioned a PWYW scheme as being like giving koha. MTs in this study appear to be open to different forms of payments, and accepting swaps and bartering for services was not uncommon. Additionally, gift vouchers were frequently used, and it was articulated more than once that gift vouchers were similar to paying it forward.
+
+Kohrt et al.(15) claim humans are evolutionarily adapted and committed to helping others in need. The findings of this study reflect this claim. Participating MTs agreed that massage therapy should be freely available to everyone (while compensating the MT), and they would implement an APS if it was going to help someone in need. The benefit for clients and MTs alike would be an increase in the use of massage therapy, and the ability to seek regular massage, the benefits of which are increasingly supported by literature.(16)
+
+When considering the preferred APS, most therapists and client participants selected an installment scheme. The assurance that MTs would still get paid made it the most attractive option. They emphasized the importance of being able to pay their bills and control their income, and installments are possibly the least complex when considering transparency. For clients, having control over their money and how they managed it was important. If there was money set aside for massage therapy, a client would be able to book a massage when they needed it, as opposed to when they could afford it. Nevertheless, trust and professionalism remained at the forefront of some clients’ minds. One client participant had concerns about an MT disappearing with their money before they had a chance to redeem their massage, illustrating why some clients valued choosing a professional, trustworthy therapist despite the payment options offered.
+
+The community-powered PIF scheme was appealing to some therapists who valued fostering a kind and giving community. However, running and contributing to a PIF may be more socially complex. Concerns centered around how an MT would select a recipient to receive all or part of a massage for free. The issue of transparency revealed views on what should be disclosed. Some MTs considered sharing the information on social media, while others thought the MT should not be required to disclose to anyone who the donated money would benefit. Some MTs would implement a more personal system by having individual conversations with clients. Many clients were reticent about receiving money from other people for their massage and felt they would need to reciprocate. The idea that a gratitude response is associated with potential future altruism has been documented(17); however, if the recipient cannot afford to reciprocate, it is conceivable that they may not want to participate in the scheme. Receiving a donated massage was positive for some of the participants. This exchange may enhance the client–therapist relationship as illustrated by Bartlett and DeSten(18) who claim that a feeling of gratitude facilitates prosocial behavior and helps the ongoing building of a relationship.
+
+Not getting paid enough is a well-founded fear in a PWYW setting. This is particularly true for many self-employed MTs who may not be able to risk losing income. Jung et al.(10) explained that in a PWYW setting, there may be ambiguity over what is an appropriate amount to pay. Payment guidelines may be required, which would take away from the heart of a PWYW scheme. Additionally, not being paid enough could make the client–therapist relationship difficult to navigate, with some MTs concerned about being taken advantage of—a sentiment echoed by some of the client participants.
+
+Despite the importance of good communication when establishing a therapeutic relationship,(19) some MTs still thought talking about finances with clients could be difficult. There was some awareness that discussing money could lead to assumptions, thus negatively affecting a relationship. However, this seemed to depend on the individual client–therapist relationship; some therapists felt their relationship with certain clients was solid enough to broach the subject. This highlights some important qualities for MTs: professionalism and trustworthiness. Some client participants stated that finding MTs with these characteristics was more important than finding someone who provided cheap massages.
+
+Further challenges noted in the “considerations” theme included a lack of time to set up an APS and the likelihood of more bookwork. These factors may compromise the smooth running of a business and highlight the need for a solution for seamless integration into a current system. Options such as an APS “How To” template or utilizing a third-party app such as “Go Generosity” are worth considering.
+
+Limitations
+The sample size was small, especially for the client population; therefore, the findings are not generalizable to the larger community. A clearer definition of the way a PIF scheme might work would have been beneficial to ensure each participant had a fuller understanding of the topic prior to being interviewed. Additionally, accessing clients who were willing to discuss their financial situation face to face or via the phone may have been limiting, and perhaps a quantitative approach to capture completely anonymous data may have been useful. As the study was conducted in the Aotearoa New Zealand context, findings may be culturally location specific. Client demographic data were limited. It would be worthwhile to understand these demographics more deeply, and whether clients from affluent centers held the same concerns about massage therapy affordability.
+
+Despite these limitations, some interesting insights were made into the perceptions of MTs and clients regarding this topic for Aotearoa New Zealand-based MTs, as well as adding to the international discussion.
+
+Implications for Practice and Future Research
+This research has highlighted a need for massage therapy to be more financially accessible to the wider population. While the industry receives little financial assistance from the government and insurance companies, it is perhaps up to New Zealand-based MTs to create a solution while ensuring they are recompensed adequately for their skills. However, MTs are busy and time poor. Ideally, a massage therapy-specific APS could be created by a third party and implemented by MTs with very little work on their part. Furthermore, the country’s voluntary professional association, Massage Aotearoa New Zealand, aims to promote and develop the industry( 20) and therefore may support APS efforts. Areas for future research include examining in greater detail, with a larger group of participants, how an installment scheme and a PIF scheme could work; the research and development of prototype schemes; and further investigation into the views and perceptions of MTs and clients using these prototypes. Similarly, if such a scheme is already running, a case study approach may also yield valuable insights to progress thinking in this area for MTs.
+
+CONCLUSIONS
+Accessing regular massage therapy is too expensive for many people in Aotearoa New Zealand. Despite this, MTs and clients alike believe it to be a worthwhile part of maintaining health and well-being. This study has shown that setting up and running an APS could have largely positive effects on the community, with increased accessibility to massage therapy. There is no one-size-fits-all system, however, with APSs depending on the personal and financial situation of both MTs and clients. To implement a successful APS, ease of administration and open communication between MTs and clients are imperative. Moreover, it would be crucial to guarantee payment for MTs, ensuring neither party would be exploited in any way and giving clients autonomy over their choices. Clear, open communication between parties is necessary to ensure transparent and trustworthy functioning.
+
+ACKNOWLEDGMENTS
+The authors would like to express their thanks to the participants who gave up their valuable time to share their views and to Gina-Marie Brown, Sandee Clark and Chanelle Wanoa for their data collection.
+
+CONFLICT OF INTEREST NOTIFICATION
+The authors declare there are no conflicts of interest.
+
+FUNDING
+No sources of funding were used in this study.
+
+REFERENCES
+1. Domenico G, Wood E. Beard’s Massage. Philadelphia: W.B. Saunders Company; 1997.
+
+2. Gerritson S, Stefanogiannis N, Galloway Y. A Portrait of Health. Key Results of the 2006/07 New Zealand Health Survey, 2008. Accessed from https://mohlibrary.softlinkhosting.co.nz/liberty/opac/search.do?mode=BASIC&openDetail=true&action=search&queryTerm=uuid%3D%225e02137f0a5a01e20ebceb3b00010b91%22&operator=OR&_open=1.
+
+3. Smith JM, Sullivan SJ, Baxter GD. Massage therapy services for healthcare: a telephone focus group study of drivers for clients’ continued use of services. Complement Ther Med. 2009;17(5–6):281–291. https://doi.org/10.1016/j.ctim.2009.07.001
+Crossref  PubMed
+
+4. Smith JM. Massage Therapy Services for Health Needs: Drivers, Utilisation, Culture of Care, and Practice Patterns of Massage Therapy in New Zealand. Dunedin, Otago: University of Otago; 2009.
+
+5. Clemett H, Smith D. The Barriers to the Use of Massage Therapy by Non-users. Southern Institute of Technology; 2017. Accessed from https://www.sit.ac.nz/Portals/0/EasyDNNNews/1028/images/m29-500-200-p-L-80.JPG
+
+6. Is Massage Therapy Covered by ACC or Medical Insurance? Frequently asked questions. https://www.massageanz.org.nz/Site/about-massage-therapy/faqs.aspx#H163149-5. Accessed April 11, 2025.
+
+7. ACC. Who We Are. https://www.acc.co.nz/about-us/who-we-are. Accessed April 11, 2025.
+
+8. ACC. Recovery Services Directory. https://www.acc.co.nz/for-providers/treatment-recovery/recovery-services-directory. Accessed April 11, 2025.
+
+9. ACC. Specified Treatment Provider Costs. https://www.acc.co.nz/assets/provider/ACC1523-Specified-treatment-provider-costs.pdf. Updated May, 2024. Accessed April 11, 2025.
+
+10. Jung MH, Nelson LD, Gneezy A, Gneezy U. Paying more when paying for others. J Pers Soc Psychol. 2014;107(3):414–431. https://doi.org/10.1037/a0037345
+Crossref  PubMed
+
+11. Thomas D. A General inductive approach for analyzing qualitative evaluation data. Am J Eval. 2006;27:237–246. https://doi.org/10.1177/1098214005283748
+Crossref
+
+12. University of Otago. Koha Payments Policy and Procedure, 2012. Retrieved from https://www.otago.ac.nz/staff/policies/policy-collection/koha-payments-policy-and-procedure
+
+13. Smith J, Sullivan S, Baxter G. Massage therapy services for healthcare: a telephone focus group study of drivers for clients’ continued use of services. Complement Ther Med. 2009;17:281–291. https://doi:10.1016/j.ctim.2009.07.001
+Crossref  PubMed
+
+14. Cottingham P, Adams J, Vempati R, Dunn J, Sibritt D. The characteristics, experiences and perceptions of registered massage therapists in New Zealand: results from a national survey of practitioners. Int J Ther Massage Bodywork. 2018;11(2):11–24. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5988344/
+Crossref  PubMed  PMC
+
+15. Kohrt B, Ottman K, Panter-Brick C, Konner M, Patel V. Why we heal: the evolution of psychological healing and implications for global mental health. Clin Psychol Rev. 2020;82:101920. https://doi.org/10.1016/j.cpr.2020.101920
+Crossref  PubMed
+
+16. Field T. Massage therapy research review. Complement Ther Clin Pract. 2016;24:19–31. https://doi.org/10.1016/j.ctcp.2016.04.005
+Crossref  PubMed  PMC
+
+17. Watkins P, Ovnicek M, Kolts R. The debt of gratitude: dissociating gratitude and indebtedness. Cogn Emot. 2006;20(2): 217–241. https://doi/org/10.1080/02699930500172291
+Crossref
+
+18. Bartlett MY, DeSteno D. Gratitude and prosocial behaviour. Psychol Sci. 2006;17(4):319–325. https://doi.org/10.1111/j.1467-9280.2006.01705.x
+Crossref  PubMed
+
+19. Kennedy A, Munk N. Experienced practitioners’ beliefs utilized to create a successful massage therapist conceptual model: a qualitative investigation. Int J Ther Massage Bodywork. 2017;10(2):9–19. https://doi.org/10.3822/ijtmb.v10i2.367
+Crossref  PubMed  PMC
+
+20. Welcome to MANZ. About MANZ. https://www.massageanz.org.nz/. Accessed April 10, 2025.
+
+Corresponding author: Victoria Morgan, Southern Institute of Technology, Invercargill Campus, Freepost SIT2LRN, Private Bag 90114, Invercargill 9810, New Zealand, E-mail: victoria.morgan@sit.ac.nz, Tel: +6432112699
+
+(Return to Top)
+
+APPENDIX I. INTERVIEW QUESTIONS—MASSAGE THERAPIST POPULATION
+Opening Questions
+1. Where are you from?
+
+2. How long have you been massaging for?
+
+3. What types of massage do you offer in your practice?
+
+Massage Therapy
+4. How do you accept payment from your clientele?
+
+5. What do you usually charge for your massage sessions?
+
+6. Do you offer massage sessions that are shorter or longer than 60 minutes?
+
+7. How are these longer or shorter sessions priced?
+
+8. Do you know if any of your clients have barriers around payment?
+
+9. Do you have a different pricing structure for pensioners or students?
+
+10. Have you ever had a client request that they pay you in a way that is not the usual way you accept payment?
+
+11. Do you consider massage therapy to be a luxury?
+
+12. Do you view massage as something that should be freely available to everybody?
+
+Alternative Payment Schemes
+13. You will have read the explanation of alternative payment schemes in the pre-interview material. Were you aware of any of these alternative payment schemes?
+
+14. Do you know of any massage therapists who are currently running an alternative payment scheme for clients?
+
+15. Do you think there might be a demand for alternative payment schemes?
+
+16. If you were to consider an alternative payment scheme, which one would you most likely implement and why?
+
+17. Do you think your current clients would be open to contributing to such a scheme?
+
+18. How would you manage transparency for your contributors, to ensure they know their money is going where you say it will be going?
+
+19. What barriers for you or your clients do you foresee in setting up an alternative payment scheme?
+
+20. Would you consider implementing an alternative payment scheme if it would allow clients who could not normally afford a massage to receive one?
+
+21. What support, guidance, or help would you need to implement an alternative payment scheme?
+
+22. Thank you for your time. This brings our interview to a close. But before we finish, is there anything else you would like to add that you have not yet said?
+
+APPENDIX II. INTERVIEW QUESTIONS—MASSAGE THERAPY CLIENTS
+Opening Questions
+1. Where do you live?
+
+2. How is the weather for you today?
+
+3. What does massage mean to you?
+
+Massage Experience
+4. When was the last time you had a massage?
+
+5. Can you recall your main goal for that session? If not, why would you normally book in for a massage?
+
+6. Did the last massage you had meet your expectations?
+
+7. If money were no object, would you have another massage?
+
+8. If money were no object, what types of things would you go to a massage therapist for?
+
+9. Are there any other barriers to your accessing regular massage?
+
+10. Do you think massage therapy is too expensive?
+
+11. What price would or could you pay for a massage?
+
+Alternative Payment Schemes
+12. You will have read about alternative payment schemes in the pre-interview guide. Were you aware of any of these schemes?
+
+13. Have you ever been a recipient of one of these schemes, or had it offered to you?
+
+14. How do you think an alternative payment scheme would work in the massage industry?
+
+15. If you knew a massage therapist who offered an alternative payment scheme, do you think you would be more likely to book in for massage with them?
+
+16. If you were going to book with a massage therapist who offered this, would you prefer one scheme over another?
+
+17. How would you feel about getting some or all of your massage paid for by someone else?
+
+18. Do you view massage therapy as a luxury?
+
+19. Do you think regular massage sessions could be used as a positive tool for your health and well-being?
+
+20. Thank you for your time today; we will now bring our interview to a close. But before we do, is there anything you would like to add that you have not yet said?
+
+COPYRIGHT
+
+Published under the CreativeCommons Attribution-NonCommercial-NoDerivs 3.0 License.
+
+International Journal of Therapeutic Massage and Bodywork, Volume 19, Number 1, March 2026

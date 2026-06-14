@@ -1,0 +1,245 @@
+Prevalence of Posterior Myofascial Chain Tightness and Presence of Myofascial Trigger Points in Subjects with Cervicogenic Headache
+Aarti Welling, MPT, PhD,1* Vijay Kage, MPT, PhD,1 Ashwin Patil, MBBS, MD,2 Princia Pereira, BPT,1 Nikita Pujari, BPT1
+
+1Department of Orthopaedic Physiotherapy, KAHER Institute of Physiotherapy, Nehru Nagar, Belagavi, Karnataka, India,
+2Department of Radiology, J.N. Medical College, KLE Academy of Higher Education and Research, Nehru Nagar, Belagavi, Karnataka, India
+Background
+Cervicogenic headache (CGH) is a secondary headache linked to cervical spine disorders and musculoskeletal dysfunction. Recent research suggests that the posterior myofascial chain, extending from the cervical region to the lower limbs, may contribute to CGH. Muscle tightness and trigger points (TrPs) in this chain can exacerbate headache symptoms. However, limited research on the prevalence of tightness and TrPs in the posterior kinetic chain highlights the need for further investigation to inform targeted treatments.
+
+Objective
+The main aim of this study is to determine the prevalence of tightness and the presence of TrPs in the muscles of the posterior myofascial chain in subjects with CGH.
+
+Materials and method
+A total of 1,283 participants were screened using the Cervicogenic Headache International Study Group criteria, identifying 188 with CGH. This cross-sectional study assessed muscle tightness and TrPs in the posterior kinetic chain at one point in time. Seventeen TrPs across the upper back, lower back, and lower limbs were examined by examiner 1. Muscle tightness in the trapezius, thoracolumbar fascia, piriformis, hamstrings, and gastrosoleus was evaluated by examiner 2 using a goniometer or measuring tape.
+
+Results
+Data show that participants with left or right CGH have higher tightness percentages in the trapezius (left: 96.93%, right: 98.88%), thoracolumbar fascia (89.89%), and hamstrings (left: 97.95%, right: 95.55%). TrPs were more in the occipital ridge (left: 84.69%, right: 86.66%), splenius capitis and cervicis (left: 65.30%, right: 61.11%), lower cervical spine (left: 90.81%, right: 96.66%), and rhomboid (left: 55.10%, right: 53.33%). A one-sample t-test, which compared the scores to normal values, revealed a significant difference (p = 0.0001) in tightness and TrPs in the posterior kinetic chain.
+
+Conclusion
+The findings indicate that individuals with CGH exhibit a high occurrence of muscle tightness and TrPs on the posterior myofascial chain on the affected side.
+
+KEYWORDS: Headache; cervicogenic; fascia; trigger point; tightness; muscle
+
+INTRODUCTION
+Cervicogenic headache (CGH) is a secondary headache that originates from dysfunction in the cervical spine and its associated musculoskeletal structures, including the muscles, ligaments, and fascia. It is often characterized by unilateral pain, typically beginning in the neck and radiating to the head, commonly associated with limited cervical range of motion and tenderness in the neck muscles.(1)
+
+CGH is becoming increasingly prevalent in India, particularly among the younger population. Studies indicate varying prevalence rates, often linked to lifestyle factors such as long sitting hours, extended workdays, and increased smartphone use. One study found a 10.4% prevalence of CGH among university students, underscoring the strong connection between neck strain from technology use and CGH.(2) Another survey reported a prevalence of 15.6% in individuals aged 18–30 years.(3) The International Headache Society estimates that 15–20% of all persistent headaches are caused by CGH, with prevalence rates ranging from 0.7% to 13.8% across various studies.( 3,4) CGH is commonly misdiagnosed and overlooked, and its higher prevalence in the working-age population contributes to lost workdays and decreased productivity. Despite the growing recognition of CGH, there remains a need for increased awareness and better diagnostic practices to differentiate it from other headache types. This could enhance treatment outcomes and improve the quality of life for affected individuals.
+
+The posterior myofascial chain consists of muscles that run along the back of the body, that is, from head to toe, and are interconnected via fascial tissue. These muscles are responsible for maintaining proper posture, stabilizing the cervical and lumbar spine, and facilitating movement. There is supporting literature indicating that trigger points (TrPs) commonly develop in the posterior myofascial chain due to factors such as muscle overuse, poor posture, and altered movement patterns, all of which lead to muscle tension and dysfunction.(5) There is also supporting literature that suggests that myofascial trigger points (MTrPs) are closely linked to CGH.(6) Research indicates that dysfunction in the cervical spine, particularly in the upper cervical region (C1–C3), can lead to referred pain, which is a hallmark feature of CGH. MTrPs found in the muscles that surround the cervical spine, including the suboccipital, levator scapulae, and upper trapezius muscles, are frequently the source of this pain.(7,8) In addition to causing local pain, MTrPs in these muscles can also refer discomfort to the head, mainly the occipital area, and even radiate to the forehead or behind the eyes. When evaluated and recognized, this referred pain can be a definite sign that there may be myofascial components in a CGH.(9)
+
+Most clinicians tend to focus primarily on TrPs located in the cervical musculature during assessments of CGH; however, focusing exclusively on the cervical region may lead to an incomplete diagnosis and treatment plan. While it is important to assess the cervical muscles, it is equally critical to examine the posterior kinetic chain, which includes muscles such as the thoracic spine, rhomboids, latissimus dorsi, and erector spinae. These structures play a key role in postural alignment and can contribute to or exacerbate cervical dysfunctions. If these muscles are neglected during an evaluation, underlying issues affecting the cervical spine might be missed, leading to insufficient treatment and persistence of symptoms. According to recent studies, TrPs in the cervical area may form as a result of dysfunction in the posterior kinetic chain.(7,8) Integrating the evaluation of these TrPs could enhance understanding of the underlying causes of CGH and improve management strategies.( 10)
+
+Muscle tightness in the posterior kinetic chain, particularly in the trapezius and hamstrings, can contribute to CGH. This relationship is supported by evidence indicating that tightness in these muscle groups can lead to biomechanical alterations and compensatory patterns that affect overall movement and posture.(11) Tightness in the trapezius can restrict shoulder mobility and alter neck posture, leading to increased strain on cervical structures, which may trigger CGH,(12) Similarly, another study states that hamstring tightness can lead to altered pelvic positioning, which affects lumbar spine mechanics and may contribute to CGH through increased stress on the cervical region.(13) While the evidence primarily highlights trapezius and hamstring tightness, it is essential to consider that other muscle groups in the posterior kinetic chain may also play a role in CGH, suggesting a more complex interplay of factors influencing this condition.(11) While there is growing recognition of the role of the posterior myofascial chain in the development of musculoskeletal pain, there is limited research directly linking muscle tightness, TrPs, and CGH. Understanding this relationship is essential for developing more effective treatment strategies for CGH. Current treatment approaches often focus on managing symptoms without addressing underlying muscular dysfunction, such as myofascial tightness or MTrPs in the posterior chain. Therefore, this study aims to determine the prevalence of muscle tightness and the presence of TrPs in the posterior myofascial chain in individuals suffering from CGH.
+
+METHODS
+This quantitative, cross-sectional, descriptive study was carried out at a tertiary care hospital. Ethical approval was granted by the institutional ethics committee (KLEKIPT/IEC/2022-23/SI. NO.836) prior to participant recruitment. The study was also registered with the Clinical Trial Registry of India (CTRI/2024/11/076178).
+
+Participant Selection
+Participants were screened according to predefined inclusion and exclusion criteria. Individuals of any gender, aged 18–50 years, diagnosed with CGH based on the Cervicogenic Headache International Study Group criteria, were included.(3,14) Key inclusion criteria included unilateral head pain without side-shift, associated neck pain, and a positive flexion–rotation test of <33°.(14)
+
+The exclusion criteria comprised individuals diagnosed with primary headaches as per the International Classification of Headache Disorders, history of spinal infections, vertebral tumors or fractures, cervical instability, metabolic disorders, rheumatoid arthritis, osteoporosis, dizziness, or visual disturbances.(15) Participants were also excluded if they had any medical or surgical conditions preventing them from assuming the prone position required for assessment, radiating pain or neurological deficits in the upper extremities, known cervical disc issues, arthritis of the cervical spine, a history of central nervous system involvement, vestibular dysfunction, prior surgeries to the head or neck, or pregnancy.( 16)
+
+All eligible participants voluntarily gave their written informed permission after receiving a thorough explanation of the study in their preferred language.
+
+Participant Screening
+The screening process for CGH participants was meticulously organized through a series of camps set up in various neighborhoods throughout the city, along with screening for participants at a tertiary care hospital. Prior to the commencement of these camps, extensive awareness campaigns were conducted to the general public through the distribution of pamphlets and advertisements on social media about the conduct of musculoskeletal and headache screening camps, highlighting the benefits of early detection and diagnosis. These efforts were aimed at encouraging greater participation in the screening process. As a result, a total of 1,283 individuals were screened, and 188 were diagnosed with CGH who met the study’s inclusion criteria.
+
+INSTRUMENTATION AND OUTCOME MEASURES
+Positive Flexion–Rotation Test
+Cervical flexion–rotation test (CFRT) was used to assess cervical spine mobility and pain in individuals with CGH. This test was performed using a digital goniometer (EasyAngle; Meloq Devices, Stockholm, Sweden). The patient is positioned supine, and the therapist induces maximal neck flexion followed by rotation to both sides while measuring the movement with the goniometer placed on the vertex of the head. The test is considered positive if the range of rotation is <33° on either side. CFRT using a digital goniometer (Easy- Angle) shows high inter-rater reliability (intraclass correlation coefficient (ICC) = 0.85–0.92) and moderate to high intra-rater reliability (ICC = 0.73–0.91), making it a reliable tool for evaluating cervical function(17) (Figure 1).
+
+
+
+
+Figure 1 Cervical flexion–rotation test.
+
+Assessment of TrPs
+Sensitivity of TrPs was assessed using a handheld pressure algometer (Baseline)— it is a device with a circular tip measuring 1 cm2. Based on the supporting literature, the press algometer shows outstanding reliability (r = 0.999).(18)
+
+Assessment of Muscle Tightness
+Muscle tightness in the trapezius, thoracolumbar fascia, piriformis, hamstrings, and gastrosoleus was assessed using either a goniometer or measuring tape, depending on the specific area being evaluated. The assessment was performed by measuring the range of motion or muscle length for each muscle group. A goniometer was used for precise angle measurements, while the measuring tape was employed to assess muscle length by measuring the distance between fixed anatomical points. Both tools are considered reliable for these measurements. According to the literature, the goniometer has high inter-rater reliability (ICC = 0.90–0.95) and intra-rater reliability (ICC = 0.85–0.92).(19) Similarly, the measuring tape demonstrates good reliability, with ICC values ranging from 0.80 to 0.90 for intra-rater and inter-rater assessments, making both tools dependable for evaluating muscle tightness in clinical settings.(20)
+
+PROCEDURE
+Prior to the study’s commencement, the two examiners underwent a comprehensive training session conducted by the principal investigator to ensure consistency and accuracy in assessing posterior TrPs and muscle tightness in the posterior kinetic chain. Examiner 1 (E1) was specifically trained in the assessment of TrPs using a pressure algometer. This training included detailed instruction on palpation techniques for identifying specific muscles where TrPs were to be assessed, guided by a book of myofascial meridians for manual and movement therapists, which outlined the appropriate methods and locations for evaluation.(21) On the other hand, examiner 2 (E2) was trained in assessing muscle tightness along the posterior kinetic chain. This included muscles such as the trapezius, thoracolumbar fascia, piriformis, hamstrings, and gastrosoleus. E2’s training was supported by relevant literature and normative values, which provided clear criteria for identifying muscle tightness.(22–26) These resources helped E2 distinguish between normal muscle tension and excessive tightness, ensuring the examiner could accurately determine whether tightness was present. The principal investigator was responsible for conducting the initial screening of CGH participants, ensuring that all subjects met the established inclusion criteria. Additionally, both examiners were blinded to which side of the body was affected by CGH to eliminate potential bias in their assessment. This training protocol and blinding process helped ensure that the study’s data collection was both reliable and objective.
+
+Posterior Myofascial Trigger Point Assessment
+The assessment of 17 TrPs along the posterior kinetic chain was conducted by E1, with the points categorized into specific regions: the upper back (occipital ridge: Figure 2A and B; splenius capitis and cervicis: Figure 2C; lower cervical spine: Figure 2D; rhomboid: Figure 2E; medial border of the scapula: Figure 2F; serratus anterior: Figure 2G; lateral ribs: Figure 2H), lower back (external oblique: Figure 2I; erector spinae: Figure 2J; sacrum: Figure 2K; sacrotuberous ligament: Figure 2L), and lower limbs (ischial tuberosity: Figure 2M; biceps femoris: Figure 2N; fibular head: Figure 2O; peroneus longus: Figure 2P; first metatarsal base: Figure 2Q; lateral tibial condyle: Figure 2R) (Figure 2).
+
+
+
+
+Figure 2 Posterior myofascial trigger points in the upper body and lower body. (A) Occipital ridge/atlas axis, (B) occipital ridge, (C) splenius capitis and cervicis, (D) lower cervical/upper thoracic spine, (E) rhomboids major and minor, (F) medial border of scapula, (G) serratus anterior, (H) lateral ribs, (I) external oblique, (J) sacrolumbar fascia, erector spinae, (K) sacrum, (L) sacrotuberous ligament, (M) ischial tuberosity, (N) biceps femoris, (O) fibula head, (P) peroneus longus (Q), first metatarsal base, and (R) lateral tibial condyle.
+
+The assessment was conducted with the participant positioned in a prone position on an examining table, while the therapist stood on the side to be tested. To measure the pain pressure threshold (PPT), a pressure algometer was used—the device was placed perpendicular to each TrP, and pressure was gradually applied until the participant reported the first sensation of discomfort or pain. Each TrP was assessed three times to reduce the possibility of error and ensure accuracy. The mean pressure value from the three assessments was then calculated for each point. This process was repeated for both sides of the body to assess any asymmetry in the PPT (Figure 3).
+
+
+
+
+Figure 3 Posterior myofascial trigger points assessment using pressure algometer. (A) Occipital ridge/atlas axis, (B) occipital ridge, (C) splenius capitis and cervicis, (D) lower cervical/upper thoracic spine, (E) rhomboids major and minor, (F) medial border of scapula, (G) serratus anterior, (H) lateral ribs, (I) external oblique, (J) sacrolumbar fascia, erector spinae, (K) sacrum, (L) sacrotuberous ligament, (M) ischial tuberosity, (N) biceps femoris, (O) fibula head, (P) peroneus longus, (Q) first metatarsal base, and (R) lateral tibial condyle.
+
+Assessment of Muscle Tightness
+The assessment of five muscles along the posterior kinetic chain was conducted by E2, with the points categorized into specific regions: the upper back (trapezius), lower back (thoracolumbar fascia), and lower limbs (piriformis, hamstrings, gastrosoleus) (Figure 4).
+
+
+
+
+Figure 4 Assessment of muscle tightness. (A) Trapezius tightness assessment, (B) thoracolumbar fascia assessment, (C) piriformis tightness assessment, (D) hamstring tightness assessment, and (E) gastrosoleus complex tightness assessment.
+
+Trapezius tightness assessment
+The assessment of trapezius tightness was conducted by measuring the range of lateral neck flexion using a goniometer. The participant was seated with relaxed shoulders, a supported trunk, and the neck in a neutral position, while the therapist stood behind. The goniometer axis was positioned over the C7 spinous process, the stationary arm aligned with the thoracic spine, and the moving arm along the participant’s head. The participant was asked to laterally flex their neck in each direction, and the range of motion was quantified by recording the movement of the goniometer arm along the occipital protuberance( 22) (Figure 4A).
+
+Thoracolumbar fascia tightness assessment
+The thoracolumbar fascia tightness assessment was performed by placing a yardstick perpendicular to a baseline on the floor. The participant was positioned in a long sitting position on a mat, with their hands stacked on top of each other, palms facing down. The participant was then instructed to slowly reach forward, extending their arms as far as possible. The distance from the fingertips to the edge of the ruler was measured and recorded using a tape measure(23) (Figure 4B).
+
+Piriformis tightness assessment
+The piriformis tightness assessment was performed with the participant lying supine on an examination table. The therapist stood on the side to be tested and placed one hand on the participant’s opposite hip for stabilization. The participant was instructed to place their ankle on the contralateral knee. The distance from the lateral condyle of the femur to the examining table was then measured. This procedure was repeated on both sides to evaluate any asymmetry in muscle tightness( 24) (Figure 4C).
+
+Hamstring tightness assessment
+The hamstring tightness assessment was performed with the participant lying supine on an examination table, while the therapist stood on the side being tested. To maintain a neutral lumbar spine, the participant was instructed to flex their hip and knee to 90° on the side to be tested, holding the back of their thigh for support. The participant was then asked to actively extend their knee. Using a goniometer, the angle formed at the popliteal fossa was recorded. This procedure was repeated on both sides to assess any asymmetry in hamstring tightness(25) (Figure 4D).
+
+Gastrosoleus tightness assessment
+The gastrosoleus tightness assessment was performed with the participant facing a wall, standing with their feet shoulder-width apart. The therapist stood on the side to be tested. The participant was instructed to perform a forward lunge while keeping their heel in constant contact with the floor until their knee touched the wall. The distance between the participant’s big toe and the wall was measured using a tape measure. This procedure was repeated on both sides to evaluate any asymmetry in muscle tightness( 26) (Figure 4E).
+
+RESULTS
+The prevalence of tightness and the presence of TrPs in the posterior kinetic chain were expressed as percentages. A comparison of the TrP and tightness scores with normal values was conducted using a one-sample t-test. The demographic analysis indicates that 31.38% of males and 68.61% of females were found positive for CGH; in addition, the demographic details suggest that CGH was more prevalent on the left side 52.12 than on the right 47.87 (Table 1).
+
+Table 1 Demographic Characteristics of Participants
+
+
+The percentage of muscle tightness and TrPs suggests a significant association between muscle tension and CGH in participants. Specifically, the data reveal that participants with left or right CGH exhibit a higher percentage of muscle tightness in the trapezius (left: 96.93%, right: 98.88%), thoracolumbar fascia (left: 81.63%, right: 84.44%), and hamstrings (left: 97.95%, right: 95.55%) compared to other muscles such as the piriformis (left: 23.46%, right: 20%) and gastrosoleus (left: 1.02%, right: 1.11%). Additionally, posterior MTrPs were more frequently observed in the following areas: the occipital ridge (left: 84.69%, right: 86.66%), splenius capitis and cervicis (left: 65.30%, right: 61.11%), lower cervical spine (left: 90.81%, right: 96.66%), rhomboid (left: 55.10%, right: 53.33%), medial border of the scapula (left: 48.97%, right: 45.55%), and serratus anterior (left: 20.40%, right: 23.33%). In contrast, muscles such as the erector spine, biceps femoris, lateral ribs, external oblique, sacrum, tibial condyle, first metatarsal base, fibular head, ischial tuberosity, and peroneus longus exhibited much lower rates of TrPs (Table 2).
+
+Table 2 Description of Percentage of Tightness and Trigger Points in the Posterior Myofascial Chain in Terms of Left-sided CGH and Right-sided CGH
+
+
+Based on comparison of tightness and TrP scores in the posterior myofascial chain with normal values, a significant difference with p = 0.0001 was observed for tightness and TrPs in the posterior kinetic chain in individuals with left- (Table 3) or right-sided (Table 4) CGH.
+
+Table 3 Comparison of Left Side Scores of Tightness and Trigger Points in the Posterior Kinetic Chain with Normal Values
+
+
+Table 4 Comparison of Right Side Scores of Tightness and Trigger Points in the Posterior Kinetic Chain with Normal Values
+
+
+DISCUSSION
+The results of the study suggest that the tightness in muscles such as the trapezius, thoracolumbar fascia, and hamstrings, combined with high percentages of TrPs in the occipital ridge, splenius capitis and cervicis, lower cervical spine, and rhomboid, supports the hypothesis that the posterior chain, especially in the upper back and cervical region, plays a key role in the development or exacerbation of CGH symptoms. CGH is often associated with MTrPs in specific muscle groups, including the trapezius, thoracolumbar fascia, and hamstrings. Evidence suggests that patients with CGH exhibit a higher prevalence of TrPs in the upper trapezius, splenius capitis and cervicis, as well as the lower cervical spine and rhomboids.(27) The thoracolumbar fascia may influence muscle tension and pain perception, while hamstring tightness can affect pelvic alignment, indirectly impacting cervical muscle function and headache occurrence.
+
+Upper body muscle tightness and TrPs in muscles such as the trapezius, sternocleidomastoid (SCM), levator scapulae, and scalenes are key contributors to CGH. These muscle dysfunctions lead to referred pain, discomfort, and postural abnormalities that exacerbate headache symptoms. Previous studies have identified the presence of TrPs in muscles such as the trapezius, suboccipital, splenius capitis and cervicis, and the muscles of the lower cervical and upper thoracic regions as critical factors in CGH development.(5,28) The upper trapezius, in particular, is commonly affected by poor posture, cervical spine degeneration, or suboptimal ergonomics, leading to tightness and the formation of TrPs that refer pain to the head, neck, and shoulders, which overlap with CGH symptom patterns. Supporting evidence from previous studies emphasizes the role of TrPs in the upper back and neck, specifically in muscles such as the trapezius, suboccipitals, and splenius capitis, in contributing to referred pain and chronic tension in CGH.(5,29) In line with this body of research, the present study extends these findings by showing not only the presence of TrPs but also significant tightness in these same muscle groups. This additional muscle tightness contributes to the persistence of CGH symptoms, highlighting the crucial role of myofascial dysfunction in the pathophysiology of the condition.
+
+While CGH is primarily linked to dysfunctions in the upper body, it is becoming increasingly recognized that tightness and TrPs in the lower body may also contribute to both the onset and persistence of these headaches. Existing literature suggests that lower body tightness involves increased muscle tension in the posterior myofascial chain, such as the hamstrings, calves, and gluteal muscles. TrPs in these muscles can refer pain to other areas, including the lower back, hips, and thigh, which can worsen discomfort and potentially aggravate the musculoskeletal issues seen in CGH patients. CGH is often associated with altered postural patterns resulting from cervical spine dysfunction.(30) This can lead to compensatory muscle tension and dysfunction in the lower body. Specifically, tightness in the hamstrings and calf muscles may develop as the body attempts to stabilize itself in response to cervical pain, creating a feedback loop of muscle dysfunction.(29) Tightness in the lower back muscles can also contribute to pelvic misalignment, which, in turn, affects the cervical spine and exacerbates CGH symptoms.( 31) This alignment issue can trigger or intensify both lower body tightness and TrPs, further prolonging the cycle of pain and dysfunction. In line with this body of research, the present study extends these findings by showing not only the tightness but also a significant presence of TrPs in these same muscle groups (thoracolumbar fascia, piriformis, hamstrings, and gastrosoleus). These additional muscle groups of the posterior kinetic chain contribute to the persistence of CGH symptoms, highlighting the crucial role of myofascial dysfunction in the pathophysiology of the condition.
+
+CGHs are typically characterized by unilateral pain, meaning the pain is localized to one side of the head, corresponding to the side of cervical dysfunction or muscle involvement. This distinguishes CGHs from migraines, which often present with bilateral (both sides) pain. The pain and muscle tightness associated with CGHs are frequently concentrated on one side of the neck and head.(32) This side-specific nature is thought to be linked to unilateral musculoskeletal dysfunction or nerve irritation on the affected side.(30)
+
+The tightness and TrPs in the cervical region play a key role in the development of CGHs, leading to referred pain patterns that reflect the location of the affected muscles. For example, TrPs in the upper trapezius can cause referred pain behind the eye, while TrPs in the SCM muscle can lead to pain in the forehead or temples.(9) These referral patterns often align with the location of the headache pain, further supporting the connection between muscle dysfunction and headache symptoms. In our research, we assessed muscle tightness and TrPs on both the affected and unaffected sides of the body. When comparing these values to normal reference ranges, our results showed that there was significantly more muscle tightness and a higher number of TrPs on the affected side. This finding highlights the role of localized muscle dysfunction in the development and persistence of CGHs, providing further evidence that treating the underlying musculoskeletal issues may help alleviate the associated headache pain. The limitation of the study was that the study employed a cross-sectional design, meaning data were collected at a single point in time. This limits the ability to draw conclusions about causality or the long-term effects of muscle tightness and TrPs on CGH development.
+
+Future Scope
+Without longitudinal follow-up, the study is unable to assess whether the identified muscle tightness and TrPs lead to long-term improvements or worsening of CGH symptoms. Further studies with extended follow-up periods are needed to determine the lasting impact of muscle dysfunction on headache progression. In the current study, the assessment of muscle tightness and TrPs was partly based on self-reported symptoms and clinician observations, which can be influenced by subjective interpretation. Future studies could benefit from more objective measures, such as electromyography or imaging techniques, to assess muscle dysfunction.
+
+CONCLUSION
+The findings reveal that in individuals with CGH, the affected sides shows a higher percentage of muscle tightness and the presence of TrPs on the posterior myofascial chain. The percentage of muscle tightness and TrPs suggests a significant association between muscle tension and CGH in participants. Specifically, the data reveal that participants with left or right CGH exhibit a higher percentage of muscle tightness in the trapezius, thoracolumbar fascia, and hamstrings compared to other muscles, such as the piriformis and gastrosoleus. Additionally, posterior MTrPs were more frequently observed in the occipital ridge, splenius capitis and cervicis, lower cervical spine, rhomboid, medial border of the scapula, and serratus anterior.
+
+ACKNOWLEDGMENTS
+We sincerely thank the Head of the Institution for granting permission to conduct this study and for providing access to the necessary research infrastructure. We also extend our heartfelt gratitude to all the participants, whose cooperation and involvement made this study possible.
+
+CONFLICT OF INTEREST NOTIFICATION
+The authors declare there are no conflicts of interest.
+
+FUNDING
+No sources of funding were used in this study.
+
+AUTHOR CONTRIBUTIONS
+Aarti Welling, Vijay Kage, and Ashwin Patil: developed the study. Aarti Welling, Princia Pereira, and Nikita Pujari: designed the study. Princia Pereira and Nikita Pujari: implemented the study. Aarti Welling and Vijay Kage: analyzed the data. Aarti Welling, Vijay Kage, and Ashwin Patil: wrote the manuscript.
+
+REFERENCES
+1. Sjaastad O, Saunte C, Hovdahl H, Breivik H, Grønbaek E. Cervicogenic headache: an hypothesis. Cephalalgia. 1983;3(4):249–256. https://doi.org/10.1046/j.1468-2982.1983.0304249.x
+Crossref  PubMed
+
+2. Kanniappan V, Abraham SS, Veeragoudhaman TS. Prevalence of cervicogenic headache among young population. Int J Res Granthaalayah. 2022;10(9):14–26.
+Crossref
+
+3. Thakur M, Kumar M. Prevalence of cervicogenic headache in the general population. Physiother Occup Ther. 2012;6(1):56–58.
+
+4. Haldeman S, Dagenais S. Cervicogenic headaches: a critical review. Spine J. 2001;1(1):31–46. https://doi.org/10.1016/s1529-9430(01)00024-9
+Crossref
+
+5. Fernández-de-las-Peñas C, Simons D, Cuadrado ML, Pareja J. The role of myofascial trigger points in musculoskeletal pain syndromes of the head and neck. Curr Pain Headache Rep. 2007;11(5):365–372. https://doi.org/10.1007/s11916-007-0056-0
+Crossref  PubMed
+
+6. Fernández-de-las-Peñas C, Palacios-Ceña D, Gómez C, et al. Trigger point dry needling in the management of cervicogenic headache: a systematic review. J Bodyw Mov Ther. 2010;14(4):261–270. https://doi.org/10.1016/j.jbmt.2009.06.006
+
+7. Embaby E, Khalil AA, Mansour A, Hamdy HA. The relationship between myofascial trigger points sensitivity, cervical postural abnormality, and clinical tension-type headache parameters. J Man Manip Ther. 2024;32(4):390–399.
+Crossref  PubMed  PMC
+
+8. Beniwal D, Rohilla R, Saharan AK, Bhardwaj V. Effects of trigger point dry needling on neck pain and cervical range of motion in patients with cervicogenic headache: a case series. Int J Sci Res. 2021;10(6):71–72. https://doi.org/10.36106/IJSR/0705105
+
+9. Simons DG, Travell JG, Simons LS. Myofascial Pain and Dysfunction: The Trigger Point Manual. 2nd ed. Williams & Wilkins; 1999.
+
+10. Jull G. Cervicogenic headache. Musculoskelet Sci Pract. 2023;102787. https://doi.org/10.1016/j.msksp.2023.102787
+Crossref
+
+11. Nightingale RW, Sganga J, Cutcliffe H, Bass CR. Impact responses of the cervical spine: A computational study of the effects of muscle activity, torso constraint, and pre-flexion. J Biomech. 2016;49(4):558–564. https://doi.org/10.1016/j.jbiomech.2016.01.006
+Crossref  PubMed
+
+12. Sciascia A, Cromwell R. Kinetic chain rehabilitation: a theoretical framework. Rehabil Res Pract. 2012;2012:853037. https://doi.org/10.1155/2012/853037
+PubMed  PMC
+
+13. Kage V, Basti A, Tashildar A, Jain A. Combined effect of myofascial release and passive stretching on plantar pressure in individuals with hamstring tightness: an experimental study. J Bodyw Mov Ther. 2023;37:412–416. https://doi.org/10.1016/j.jbmt.2023.12.004
+Crossref
+
+14. Ogince M, Hall T, Robinson K, Blackmore AM. The diagnostic validity of the cervical flexion–rotation test in C1/2-related cervicogenic headache. Man Ther. 2007;12(3):256–262. https://doi.org/10.1016/j.math.2006.06.008
+Crossref
+
+15. International Classification of Headache Disorders, 3rd edition (ICHD-3). Cephalalgia. 2018;38(1):1–211.
+
+16. Bravo Petersen SM, Vardaxis VG. The flexion–rotation test performed actively and passively: a comparison of range of motion in patients with cervicogenic headache. J Man Manip Therapy. 2014;23(2):61–67.
+Crossref
+
+17. Luedtke K, Schoettker-Königer T, Hall T, Reimer C, Grassold M, Hasselhoff-Styhler P, et al. Concurrent validity and reliability of measuring range of motion during the cervical flexion rotation test with a novel digital goniometer. BMC Musculoskelet Disorder. 2020;21(1):535. https://doi.org/10.1186/s12891-020-03525-6
+Crossref
+
+18. Kinser AM, Sands WA, Stone MH. Reliability and validity of a pressure algometer. J Strength Cond Res. 2009;23(1):312–314. https://doi.org/10.1519/jsc.0b013e31818f051c
+Crossref  PubMed
+
+19. Farooq MN, Mohseni Bandpei MA, Ali M, Khan GA. Reliability of the universal goniometer for assessing active cervical range of motion in asymptomatic healthy persons. Pak J Med Sci. 2016;32(2):457–461. https://doi.org/10.12669/pjms.322.8747
+PubMed  PMC
+
+20. Fraeulin L, Holzgreve F, Brinkbäumer M, Dziuba A, Friebe D, Klemz S, et al. Intra- and inter-rater reliability of joint range of motion tests using tape measure, digital inclinometer, and inertial motion capturing. PLoS One. 2020;15(12):e0243646. https://doi.org/10.1371/journal.pone.0243646
+Crossref
+
+21. Myers TW. Myofascial Meridians for Manual and Movement Therapists. 2nd ed. Churchill Livingstone; 2009.
+
+22. Magee DJ. Orthopedic Assessment. 6th ed. Elsevier; 2014.
+
+23. Mackenzie B. 101 Performance Evaluation Tests. Electric Word; 2005.
+
+24. Gajdosik R. Hamstring muscle tightness. Phys Ther. 1983;63(7):1085–1088.
+Crossref  PubMed
+
+25. Bagwell JJ, Bauer L, Gradoz M, Grindstaff TL. The reliability of FABER test hip range of motion measurements. Int J Sports Phys Ther. 2016;11(7):1101–1105.
+PMC
+
+26. Gohil R, Tilaye P. Normative data for calf muscle flexibility tested by weight-bearing lunge test in age group of 20–30 years: pilot study. Int J Health Sci Res. 2022;12(2):71–75. https://doi.org/10.52403/ijhsr.2022020
+Crossref
+
+27. Olivier B, Pramod A, Maleka D. Trigger point sensitivity as a differentiating factor between cervicogenic and non-cervicogenic headaches: a cross-sectional, descriptive study. Physiother Can. 2018;70(4):323–329. https://doi.org/10.3138/PTC.2017-38
+Crossref
+
+28. Boquet J, Boismare F, Payenneville G, Leclerc D, Monnier JC, Moore N. Lateralization of headache: possible role of an upper cervical trigger point. Cephalalgia. 1989;9(1):15–24. https://doi.org/10.1046/j.1468-2982.1989.0901015.x
+Crossref  PubMed
+
+29. Bogduk N, Govind J. Cervicogenic headache: an assessment of the evidence on clinical diagnosis, invasive tests, and treatment. Lancet Neurol. 2009;8:959–968.
+Crossref  PubMed
+
+30. Jull G, Sterling M, Falla D, et al. Physical therapy for cervicogenic headache. Phys Ther Rev. 2007;12(1):23–30.
+
+31. Bendtsen L, Olesen J, Jensen R. The role of muscle dysfunction in the pathophysiology of cervicogenic headache. Cephalalgia. 2011;31(13):1335–1344.
+
+32. Cummings TM, White AR, Richards SH, et al. Cervicogenic headache: a review of the clinical evidence. J Pain Res. 2014;7:1–8.
+
+Corresponding author: Aarti Welling, Department of Orthopaedic Physiotherapy, KAHER Institute of Physiotherapy, Nehru Nagar, Belagavi, India, E-mail: aartiwell88@gmail.com, Mobile: 9448814569
+
+(Return to Top)
+
+COPYRIGHT
+
+Published under the CreativeCommons Attribution-NonCommercial-NoDerivs 3.0 License.
+
+International Journal of Therapeutic Massage and Bodywork, Volume 19, Number 1, March 2026

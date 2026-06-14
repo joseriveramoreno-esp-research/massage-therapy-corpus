@@ -25,40 +25,40 @@ assets of this study are partitioned directly into the following branch location
 
 ### Step-by-Step Replication Pipeline 
 
-Phase 1: 
+#### Phase 1: Environment Setup & Target Ingestion
 
-Environment Setup & Target IngestionDownload and install AntConc (Version 4.x) or any standard 
-corpus analysis software.Clone or download the raw target files from the oral corpus branch and load them into 
-AntConc's primary corpus slot.Open a secondary workspace or reference slot and load the 10 preprocessed texts 
+Download and install AntConc (Version 4.x) or any standard 
+corpus analysis software. Clone or download the raw target files from the oral corpus branch and load them into 
+AntConc's primary corpus slot. Open a secondary workspace or reference slot and load the 10 preprocessed texts 
 from the written corpus branch. (Note: All digital metadata, URLs, DOIs, citation hashes, and secondary multilingual
 strings have already been preprocessed out of these files to isolate purely scope-relevant vocabulary).
 
-Phase 2: 
+#### Phase 2: N-Gram and Lexical Bundle Generation 
 
-N-Gram and Lexical Bundle GenerationNavigate to the N-Grams tool within AntConc.Set the N-gram size parameters 
-to Min: 3, Max: 4 to isolate 3-word and 4-word lexical bundles.Run the generation tool independently for both the
-oral and written subcorpora.Sort the results by Frequency and Range (dispersion across sub-texts). Cross-reference 
+Navigate to the N-Grams tool within AntConc. Set the N-gram size parameters 
+to Min: 3, Max: 4 to isolate 3-word and 4-word lexical bundles. Run the generation tool independently for both the
+oral and written subcorpora. Sort the results by Frequency and Range (dispersion across sub-texts). Cross-reference 
 the resulting lists against the data tables in the paper to verify the structural behavior of core anchors such as
 just, massage, back, were, going, and by.
 
-Phase 3:
+#### Phase 3: KWIC Concordance Auditing
 
-KWIC Concordance AuditingNavigate to the KWIC (Key Word in Context) tool.Enter the target anchor tokens 
+Navigate to the KWIC (Key Word in Context) tool.Enter the target anchor tokens 
 individually (e.g., searching for the token welcome, massage, or back).Set the window span to view 5 words to the left 
 and 5 words to the right.Observe the immediate collocational environments to verify the presence of "academic 
 shields" (such as the fixed binomial “massage therapy and bodywork”) and prepositional frames that govern institutional 
 boundary tracking.
 
-Phase 4:
+#### Phase 4: Reference Keyness Benchmarking
 
-Reference Keyness BenchmarkingTo replicate the exact Log-Likelihood ($G^2$) surges reported in the 
-text (e.g., were: 2087.417; by: 1781.773; welcome: 18.246), open the Corpus Manager settings in AntConc.Select and configure your
-standard reference baseline by choosing the built-in balanced sample from the Corpus of Contemporary American English (COCA).
-Generate the keyword parameters using the Log-Likelihood algorithm to calculate statistical salience alongside an effect-size coefficient.
-Navigate to the further analysis branch to open the exported keyness archives. Verify that all targeted professional/clinical tokens 
-surpass the absolute significance threshold of $15.13$ ($p < 0.0001$).Pedagogical Translation ApplicationThe multi-word lexical bundles 
-and structural realignments extracted in this pipeline (such as converting active agent speech into passive clinical frames) serve as 
-the direct empirical foundation for teaching professional-business register awareness. By mapping these localized data strings 
+To replicate the exact Log-Likelihood ($G^2$) surges reported in the text (e.g., were: 2087.417; by: 1781.773; welcome: 18.246), open the 
+Corpus Manager settings in AntConc. Select and configure yourstandard reference baseline by choosing the built-in balanced sample 
+from the Corpus of Contemporary American English (COCA). Generate the keyword parameters using the Log-Likelihood algorithm 
+to calculate statistical salience alongside an effect-size coefficient. Navigate to the further analysis branch to open the exported 
+keyness archives. Verify that all targeted professional/clinical tokens surpass the absolute significance threshold of $15.13$ ($p < 0.0001$).
+
+#### Pedagogical Translation Application
+The multi-word lexical bundles and structural realignments extracted in this pipeline (such as converting active agent speech into passive clinical frames) serve as the direct empirical foundation for teaching professional-business register awareness. By mapping these localized data strings 
 to Biber’s Dimension 5 (Abstract vs. Non-Abstract Style), educators can inductively scaffold a learner's transition from 
 casual instructional talk to formal clinical and commercial charting proficiency.
 

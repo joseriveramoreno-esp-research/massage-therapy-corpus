@@ -16,7 +16,7 @@ corpus outputs across our specialized branches, researchers can fully replicate,
 log-likelihood profiles, and n-gram matrices presented in the main paper.Repository & Branch ArchitectureThe structural 
 assets of this study are partitioned directly into the following branch locations underneath this main directory:
 
-## Contents
+### Contents
 
 - `oral/` – Contains the raw instructional spoken transcripts (.txt) compiled from video media and classroom tutorials. (YouTube sources)
 - `written/` – Contains the 10 preprocessed full-text clinical reference texts (.txt) utilized for the written register baseline
